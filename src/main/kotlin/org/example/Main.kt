@@ -56,6 +56,10 @@ fun String.substringBetween(start: String, end: String): String {
    return this.substringAfter(start).substringBefore(end)
 }
 
+fun String.substringBetween(startIndex : Int, endIndex : Int): String {
+    return this.substring(startIndex, endIndex)
+}
+
 data class EnglishPolishDefinition(
     val englishName: String,
     val frenchName: String,
@@ -97,7 +101,7 @@ class GlossaryParser(
         val result = dictionaryLetterIndicatorRegex.findAll(glossary)
         val descriptionsGroupedByLetter = result.groupBy(
             keySelector = { it.value[0] },
-            valueTransform = { glossary.substringBetween(it.value, it.next()?.value ?: "") }
+            valueTransform = { glossary.substringBetween(it.range.first, it.next()?.range?.first ?: glossary.length)}
         )
         val size = result.count()
         println(size)
@@ -112,7 +116,7 @@ class GlossaryParser(
         NATO/PdP JAWNE 31
      */
     companion object {
-        private val dictionaryLetterIndicatorRegex = Regex("^[A-Z]{1}\n", RegexOption.MULTILINE)
+        private val dictionaryLetterIndicatorRegex = Regex("(^[A-Z]$)", RegexOption.MULTILINE)
 
         private const val FFAAP6_TO_REMOVE = "AAP-6 (2017)"
         private const val NATO_PDP_JAWNE = "NATO/PdP JAWNE"
