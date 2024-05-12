@@ -80,4 +80,82 @@ class MainKtTest {
         val result = glossaryParser.getDefinitionsGroupedByAlphabet(cleanFile)
         assertEquals(26, result.size)
     }
+
+    @Test
+    fun testShouldCutPreferredTermsEntry() {
+        //given
+        val exampleEntry = """
+            air logistic support operation /
+            opération aérienne de soutien
+            logistique
+            An air operation, excluding an airborne
+            operation, conducted within a theatre
+            of operations to distribute and/or
+            recover personnel, equipment and
+            supplies. 4/10/00
+            wsparcie logistyczne z powietrza
+            Operacja powietrzna, z wyjątkiem
+            operacji desantowych, prowadzona na
+            teatrze działań, w celu dostarczenia
+            i uzupełnienia stanu osobowego sprzętu,
+            środków bojowych i materiałowych.
+            26/2/01
+            airmiss
+            Preferred term: near miss.
+            niebezpieczne zbliżenie
+            >Termin zalecany: near miss. 22/9/99
+            airmobile forces / force aéromobile
+            The ground combat, supporting and air
+            vehicle units required to conduct an
+            airmobile operation. 1/3/79
+        """.trimIndent()
+
+        val glossaryParser = GlossaryParser(AppFilesApiFactory.create())
+        //when
+        val cleanedEntry = glossaryParser.cleanUpUnnecessaryContent(exampleEntry)
+
+        //then
+        val expected = """
+            air logistic support operation /
+            opération aérienne de soutien
+            logistique
+            An air operation, excluding an airborne
+            operation, conducted within a theatre
+            of operations to distribute and/or
+            recover personnel, equipment and
+            supplies. 4/10/00
+            wsparcie logistyczne z powietrza
+            Operacja powietrzna, z wyjątkiem
+            operacji desantowych, prowadzona na
+            teatrze działań, w celu dostarczenia
+            i uzupełnienia stanu osobowego sprzętu,
+            środków bojowych i materiałowych.
+            26/2/01
+            airmobile forces / force aéromobile
+            The ground combat, supporting and air
+            vehicle units required to conduct an
+            airmobile operation. 1/3/79
+        """.trimIndent()
+
+        assertEquals(expected, cleanedEntry)
+    }
+    
+    @Test
+    fun testShouldClearGlossary() {
+        //given
+        val appFilesApi = AppFilesApiFactory.create()
+        val glossaryParser = GlossaryParser(appFilesApi)
+
+        //when
+        val result = glossaryParser.readFile(Path(aap6plFilteredPagesFilePath))
+        val cleanedResult = glossaryParser.cleanUpUnnecessaryContent(result)
+
+        appFilesApi.fileOperation().create().into(Path("src/test/resources/cleanedGlossaryENG.txt")).withContent(cleanedResult).save()
+        
+        //then
+        val doesNotContainFFAAP6 =
+            assertTrue(cleanedResult.lines().none { it.contains(GlossaryParser.FFAAP6_TO_REMOVE) })
+            assertTrue(cleanedResult.lines().none { it.contains(GlossaryParser.NATO_PDP_JAWNE) })
+            assertTrue(GlossaryParser.NATO_PDP_JAWNE_WITH_PAGE_NUMBER_REGEX.findAll(cleanedResult).none())
+    }
 }

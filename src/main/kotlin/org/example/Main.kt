@@ -4,7 +4,7 @@ import com.sperek.file.api.AppFilesApiFactory
 import com.sperek.file.api.FilesApi
 import com.sperek.file.api.Path
 
-internal const val aap6plFilteredPagesFilePath = "src/main/resources/AAP6PL_filtered_pages.txt"
+internal const val aap6plFilteredPagesFilePath = "src/main/resources/cleanedGlossaryENG.txt"
 internal const val natoGlossaryFilteredFrench = "src/main/resources/NATO_Glossary_filtered_pages_french.txt"
 fun main() {
     println("Hello World!")
@@ -52,7 +52,7 @@ fun main() {
  */
 
 fun String.substringBetween(start: String, end: String): String {
-    return this.substringAfter(start).substringBefore(end)
+    return this.substringAfter(start).trim().substringBefore(end)
 }
 
 fun String.substringBetween(startIndex: Int, endIndex: Int): String {
@@ -67,11 +67,13 @@ data class EnglishPolishDefinition(
     val polishDefinition: String
 ) {
     companion object {
-        val definitionEndRegex = Regex("\\d{1,2}/\\d{1,2}/\\d{1,2}(\\n)?")
+        val definitionEndRegex = Regex("(\\.\\s*.*\\n?)((\\d{1,2}\\/\\d{1,2}\\/\\d{1,2})|(\\[.*\\]))|(\\[.*\\s.*\\]\\s(\\d{1,2}\\/\\d{1,2}\\/\\d{1,2}))\\n?")
+        val englishDefinitionStartRegex = Regex("^[A-Z].*$", RegexOption.MULTILINE)
 
         fun from(string: String): EnglishPolishDefinition {
             val englishName = string.substringBefore("/").trim()
-            val frenchName = string.substringBetween("/", "\n").trim()
+            val englishDefinitionStartStr = englishDefinitionStartRegex.find(string)?.value ?: "\n"
+            val frenchName = string.substringBetween("/", englishDefinitionStartStr).trim()
             val englishDefinitionEndString = definitionEndRegex.find(string)?.value ?: "\n"
             val englishDefinition = string.substringBetween(frenchName, englishDefinitionEndString).trim()
             val polishName = string.substringBetween(englishDefinitionEndString, "\n").trim()
@@ -92,14 +94,15 @@ data class EnglishPolishDefinitions(
 
             val definitionEndMatchesFiltered = definitionsEndMatches
                 .filterIndexed { index, _ -> index % 2 == 1 }
-            val definitions = definitionEndMatchesFiltered
+            val definitionsStr = definitionEndMatchesFiltered
                 .mapIndexed { index, matchResult ->
                     val isStartOfString = index == 0
-                    val matchResultValue = matchResult.value
-                    val previousMatchIndex = definitionEndMatchesFiltered.indexOfFirst {  it.range == matchResult.range } - 1
+                    val previousMatchIndex =
+                        definitionEndMatchesFiltered.indexOfFirst { it.range == matchResult.range } - 1
                     val previousMatch = definitionEndMatchesFiltered.elementAtOrNull(previousMatchIndex)
-                    getFullDefinitionSubstring(matchResult, string, previousMatch, isStartOfString)
+                    getFullDefinitionSubstring(matchResult, string, previousMatch, isStartOfString).trim()
                 }
+            val definitions = definitionsStr
                 .map { EnglishPolishDefinition.from(it) }
                 .toList()
 
@@ -116,9 +119,9 @@ data class EnglishPolishDefinitions(
                 val endIndex = matchResult.range.last
                 glossary.substringBetween(2, endIndex)
             } else {
-                val startIndex = previousMatch?.range?.last ?: 0
+                val startIndex = previousMatch?.range?.last ?: 2
                 val endIndex = matchResult.next()?.range?.first ?: glossary.length
-                glossary.substringBetween(startIndex, endIndex)
+                glossary.substringBetween(startIndex+2, endIndex)
             }
         }
     }
@@ -132,10 +135,43 @@ class GlossaryParser(
     }
 
     fun cleanUpUnnecessaryContent(glossary: String): String {
-        return glossary
+        val glossaryWithoutPreferredTerms = cleanUpPreferredTermEntries(glossary)
+        val glossaryWithoutLineNumberStrings =
+            NATO_PDP_JAWNE_WITH_PAGE_NUMBER_REGEX.replace(glossaryWithoutPreferredTerms, "")
+        val repeatingDatesCleaned =
+            repeatingDateLikeStringsRegex.replace(glossaryWithoutLineNumberStrings) { matchResult -> matchResult.groupValues[1] }
+        return repeatingDatesCleaned
             .replace(FFAAP6_TO_REMOVE, "")
             .replace(NATO_PDP_JAWNE, "")
-            .replace(NATO_PDP_JAWNE_WITH_PAGE_NUMBER_REGEX, "")
+    }
+
+    /*
+      example glossary entry:
+              środków bojowych i materiałowych.
+              26/2/01
+              airmiss
+              Preferred term: near miss.
+              niebezpieczne zbliżenie
+              >Termin zalecany: near miss. 22/9/99
+              airmobile forces / force aéromobile
+              The ground combat, supporting and air
+
+              expected output:
+              środków bojowych i materiałowych.
+              26/2/01
+              airmobile forces / force aéromobile
+              The ground combat, supporting and air
+
+              things to cut:
+              airmiss
+              Preferred term: near miss.
+              niebezpieczne zbliżenie
+              >Termin zalecany: near miss. 22/9/99
+     */
+    private fun cleanUpPreferredTermEntries(glossary: String): String {
+        val glossaryWithoutPreferredTermsEng = preferredTermEngRegex.replace(glossary, "")
+        val glossaryWithoutPreferredTermsPl = preferredTermPlRegex.replace(glossaryWithoutPreferredTermsEng, "")
+        return glossaryWithoutPreferredTermsPl
     }
 
     fun getDefinitionsGroupedByAlphabet(glossary: String): Map<Char, EnglishPolishDefinitions> {
@@ -162,10 +198,16 @@ class GlossaryParser(
      */
     companion object {
         private val dictionaryLetterIndicatorRegex = Regex("(^[A-Z]$)", RegexOption.MULTILINE)
+        private const val PREFERRED_TERM_ENG = "Preferred term:"
+        private val preferredTermEngRegex = Regex(".*\n$PREFERRED_TERM_ENG.*(\\n?.*){1,3}\\.", RegexOption.MULTILINE)
+        private const val PREFERRED_TERM_PL = ">Termin zalecany:"
+        val preferredTermPlRegex =
+            Regex(".*\n$PREFERRED_TERM_PL.*\\n\\w*\\.*\\s*(\\d{1,2}/\\d{1,2}/\\d{1,2})*\\n*", RegexOption.MULTILINE)
+        const val FFAAP6_TO_REMOVE = "AAP-6 (2017)"
+        const val NATO_PDP_JAWNE = "NATO/PdP JAWNE"
+        val NATO_PDP_JAWNE_WITH_PAGE_NUMBER_REGEX = Regex("$NATO_PDP_JAWNE \\d{1,4}", RegexOption.MULTILINE)
+        val repeatingDateLikeStringsRegex = Regex("(\\d{1,2}/\\d{1,2}/\\d{1,2})\\s*(\\d{1,2}/\\d{1,2}/\\d{1,2})")
 
-        private const val FFAAP6_TO_REMOVE = "AAP-6 (2017)"
-        private const val NATO_PDP_JAWNE = "NATO/PdP JAWNE"
-        private val NATO_PDP_JAWNE_WITH_PAGE_NUMBER_REGEX = Regex("$NATO_PDP_JAWNE \\d+")
     }
 
 }
