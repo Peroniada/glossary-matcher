@@ -17,7 +17,6 @@ fun main() {
     val cleanedUpGlossary = glossaryParser.cleanUpUnnecessaryContent(polishToEnglishGlossaryString)
 
 
-
 }
 
 /*
@@ -53,10 +52,10 @@ fun main() {
  */
 
 fun String.substringBetween(start: String, end: String): String {
-   return this.substringAfter(start).substringBefore(end)
+    return this.substringAfter(start).substringBefore(end)
 }
 
-fun String.substringBetween(startIndex : Int, endIndex : Int): String {
+fun String.substringBetween(startIndex: Int, endIndex: Int): String {
     return this.substring(startIndex, endIndex)
 }
 
@@ -68,7 +67,7 @@ data class EnglishPolishDefinition(
     val polishDefinition: String
 ) {
     companion object {
-        private val definitionEndRegex = Regex("\\d{1,2}/\\d{1,2}/\\d{1,2}(\\n)?")
+        val definitionEndRegex = Regex("\\d{1,2}/\\d{1,2}/\\d{1,2}(\\n)?")
 
         fun from(string: String): EnglishPolishDefinition {
             val englishName = string.substringBefore("/").trim()
@@ -79,6 +78,48 @@ data class EnglishPolishDefinition(
             val polishDefinitionEndString = definitionEndRegex.find(string.substringAfter(polishName))?.value ?: "\n"
             val polishDefinition = string.substringBetween(polishName, polishDefinitionEndString).trim()
             return EnglishPolishDefinition(englishName, frenchName, englishDefinition, polishName, polishDefinition)
+        }
+    }
+}
+
+data class EnglishPolishDefinitions(
+    val definitions: List<EnglishPolishDefinition>
+) {
+    companion object {
+        fun from(string: String): EnglishPolishDefinitions {
+            val definitionEndRegex = EnglishPolishDefinition.definitionEndRegex
+            val definitionsEndMatches = definitionEndRegex.findAll(string)
+
+            val definitionEndMatchesFiltered = definitionsEndMatches
+                .filterIndexed { index, _ -> index % 2 == 1 }
+            val definitions = definitionEndMatchesFiltered
+                .mapIndexed { index, matchResult ->
+                    val isStartOfString = index == 0
+                    val matchResultValue = matchResult.value
+                    val previousMatchIndex = definitionEndMatchesFiltered.indexOfFirst {  it.range == matchResult.range } - 1
+                    val previousMatch = definitionEndMatchesFiltered.elementAtOrNull(previousMatchIndex)
+                    getFullDefinitionSubstring(matchResult, string, previousMatch, isStartOfString)
+                }
+                .map { EnglishPolishDefinition.from(it) }
+                .toList()
+
+            return EnglishPolishDefinitions(definitions)
+        }
+
+        private fun getFullDefinitionSubstring(
+            matchResult: MatchResult,
+            glossary: String,
+            previousMatch: MatchResult?,
+            isStartOfString: Boolean
+        ): String {
+            return if (isStartOfString) {
+                val endIndex = matchResult.range.last
+                glossary.substringBetween(2, endIndex)
+            } else {
+                val startIndex = previousMatch?.range?.last ?: 0
+                val endIndex = matchResult.next()?.range?.first ?: glossary.length
+                glossary.substringBetween(startIndex, endIndex)
+            }
         }
     }
 }
@@ -94,20 +135,24 @@ class GlossaryParser(
         return glossary
             .replace(FFAAP6_TO_REMOVE, "")
             .replace(NATO_PDP_JAWNE, "")
-            .replace(NATO_PDP_JAWNE_WITH_PAGE_NUMBER_REGEX,"")
+            .replace(NATO_PDP_JAWNE_WITH_PAGE_NUMBER_REGEX, "")
     }
 
-    fun getDefinitionsGroupedByAlphabet(glossary: String): Map<Char, List<EnglishPolishDefinition>> {
+    fun getDefinitionsGroupedByAlphabet(glossary: String): Map<Char, EnglishPolishDefinitions> {
         val result = dictionaryLetterIndicatorRegex.findAll(glossary)
-        val descriptionsGroupedByLetter = result.groupBy(
+        return result.groupBy(
             keySelector = { it.value[0] },
-            valueTransform = { glossary.substringBetween(it.range.first, it.next()?.range?.first ?: glossary.length)}
+            valueTransform = {
+                glossary.substringBetween(
+                    it.range.first,
+                    it.next()?.range?.first ?: glossary.length
+                )
+            }
         )
-        val size = result.count()
-        println(size)
-        println(glossary.length)
-        return emptyMap()
+            .mapValues { it.value.first() }
+            .mapValues { EnglishPolishDefinitions.from(it.value) }
     }
+
 
     /*
         rubbish

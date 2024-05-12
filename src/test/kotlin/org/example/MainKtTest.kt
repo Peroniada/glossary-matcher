@@ -78,5 +78,6 @@ class MainKtTest {
         println("uncleaned file length: ${uncleanedFile.length}")
         val cleanFile = glossaryParser.cleanUpUnnecessaryContent(uncleanedFile)
         val result = glossaryParser.getDefinitionsGroupedByAlphabet(cleanFile)
+        assertEquals(26, result.size)
     }
 }
