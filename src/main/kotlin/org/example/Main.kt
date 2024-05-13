@@ -67,12 +67,12 @@ data class EnglishPolishDefinition(
     val polishDefinition: String
 ) {
     companion object {
-        val definitionEndRegex = Regex("(\\.\\s*.*\\n?)((\\d{1,2}\\/\\d{1,2}\\/\\d{1,2})|(\\[.*\\]))|(\\[.*\\s.*\\]\\s(\\d{1,2}\\/\\d{1,2}\\/\\d{1,2}))\\n?")
+        val definitionEndRegex = Regex("(\\.\\s*\\d{1,2}\\/\\d{1,2}\\/\\d{1,2})|(\\.\\s\\[.*\\s*.*\\]\\s\\d{1,2}\\/\\d{1,2}\\/\\d{1,2})|(\\.\\s.*,*\\s*\\d{1,2}\\/\\d{1,2}\\/\\d{1,2})|(\\.\\s\\[.*\\s*.*\\]\\s)\\n?")
         val englishDefinitionStartRegex = Regex("^[A-Z].*$", RegexOption.MULTILINE)
 
         fun from(string: String): EnglishPolishDefinition {
             val englishName = string.substringBefore("/").trim()
-            val englishDefinitionStartStr = englishDefinitionStartRegex.find(string)?.value ?: "\n"
+            val englishDefinitionStartStr = englishDefinitionStartRegex.find(string.substringAfter(englishName))?.value ?: "\n"
             val frenchName = string.substringBetween("/", englishDefinitionStartStr).trim()
             val englishDefinitionEndString = definitionEndRegex.find(string)?.value ?: "\n"
             val englishDefinition = string.substringBetween(frenchName, englishDefinitionEndString).trim()
@@ -120,8 +120,9 @@ data class EnglishPolishDefinitions(
                 glossary.substringBetween(2, endIndex)
             } else {
                 val startIndex = previousMatch?.range?.last ?: 2
-                val endIndex = matchResult.next()?.range?.first ?: glossary.length
-                glossary.substringBetween(startIndex+2, endIndex)
+                val endIndex = matchResult.range.last
+//                val endIndex = matchResult.next()?.range?.first ?: glossary.length
+                glossary.substringBetween(startIndex + 1, endIndex).trim()
             }
         }
     }

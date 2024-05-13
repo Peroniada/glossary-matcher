@@ -1587,10 +1587,6 @@ technicznych i napraw statku
 powietrznego oraz jego wyposażenia
 pokładowego. 4/10/11
 
-ustawiający statki powietrzne
-kierujący ruchem statków powietrznych
-A.
-0/2/98
 aircraft handover / prise en compte
 successive d'un aéronef
 The process of transferring control of
@@ -1705,8 +1701,7 @@ consumables such as fuel, oil, and
 compressed gasses to predetermined
 levels, pressures, quantities or weights.
 Rearming is excluded. 1/2/73
-odtwarzanie gotowości statku
-powietrznego
+odtwarzanie gotowości statku powietrznego
 Uzupełnienie statku powietrznego
 o środki zaopatrzenia, takie jak paliwo,
 oleje i sprężone gazy do określonych
@@ -1714,7 +1709,6 @@ poziomów, ciśnień, ilości lub ciężaru.
 Pojęcie to nie obejmuje uzupełnienia
 uzbrojenia. 3/4/12
 
-wyposażenie statku powietrznego do
 aircraft scrambling / ordre de décollage
 immédiat
 Directing the immediate take-off of
@@ -3540,7 +3534,7 @@ strops are attached. 1/3/82
 lina desantowa
 W transporcie powietrznym, lina w statku
 powietrznym, do której mocuje się liny
-wyciągające spadochronu.
+wyciągające spadochronu. 0/0/0
 anchor line extension kit / prolongateur
 de câble de largage
 A device fitted to an aircraft equipped
@@ -3552,9 +3546,7 @@ Urządzenie łączące linę desantową
 statku powietrznego z liną wyciągającą
 spadochronu, umożliwiające skoczkom
 spadochronowym bezpieczne
-oddzielenie się od statku powietrznego
-
-
+oddzielenie się od statku powietrznego. 0/0/0
 
 ancillary facilities / moyens d’appoint
 Those facilities required to supplement
@@ -5532,7 +5524,7 @@ powiadamianie wsteczne
 A.
 26/2/98
 
-/ balisage de circulation
+balisage / balisage de circulation
 routière
 The marking of a route by a system of
 dim beacon lights enabling vehicles to
@@ -8990,7 +8982,7 @@ Mina, której pobudzenie odbywa się pod
 wpływem dwóch lub więcej różnych
 bodźców, działających równocześnie,
 albo w ustalonej kolejności. 16/11/00
-)
+combined arms (adj.) / interarmes (adj.)
 In land operations, relating to the
 synchronized or simultaneous
 application of several arms to achieve
@@ -12036,7 +12028,6 @@ elektrooptycznym lub radarowym, w celu
 ich lepszego wykorzystania. 27/10/04
 date-time group / groupe date-heure
 DTG
-[AComP-01]
 An indication of date and time,
 consisting of a group of six digits with a
 time zone suffix and the standardized
@@ -12045,11 +12036,8 @@ Note: The first pair of digits represents
 the day, the second pair the hour, the
 third pair the minutes, and the year is
 added after the month if necessary.
-[derived from: STANAG 2014, Edition
-9, 2000]
 Example: 230220Z.01.2000 (to mean
 23.01.2000 at 02.20 hours, zulu time).
-[STANAG 2014, Edition 9, 2000]
 14/8/15
 grupa data-czas
 DTG
@@ -15598,7 +15586,7 @@ poparcie
 W NATO, formalne wsparcie udzielone
 przez właściwe organy w sprawie
 wymagającej zgody organu wyższego
-szczebla
+szczebla. 0/0/0
 endorsement2
 / entérinement
 In the NATO context, the formal
@@ -15614,7 +15602,7 @@ najwyższym poziomie.
 Uwaga: Dokument może zostać
 przedłożony do zatwierdzenia przez
 ministrów, po jego zaaprobowaniu przez
-Radę.
+Radę. 0/0/0
 end state / état final
 The political and/or military situation to
 be attained at the end of an operation,
@@ -16354,7 +16342,7 @@ munitions; all mines, torpedoes and
 depth charges, demolition charges;
 pyrotechnics; clusters and dispensers;
 cartridge and propellant-actuated
-devices; MCLSB, 6/3/17
+devices. MCLSB, 6/3/17
 amunicja
 Wszystkie środki zawierające materiał
 wybuchowy, materiały rozszczepienia
@@ -17075,12 +17063,6 @@ wyposażenia i/lub przyrządów
 przeznaczony do kierowania ogniem
 danym rodzajem lub grupą uzbrojenia.
 19/4/06
-fire coordination
-Preferred term fire support
-coordination.
-
-
-
 fire coordination area / zone de
 coordination des feux
 An area with specified restraints into
@@ -17114,7 +17096,7 @@ kierowania ogniem otrzymuje informacje
 rozpoznawcze o celach
 i zapotrzebowania na wsparcie ogniowe,
 a następnie przekłada je na właściwe
-zadania ogniowe.
+zadania ogniowe. 0/0/0
 fire for effect1
 / tir d'efficacité1
 FFE
@@ -17604,7 +17586,7 @@ tłumik płomieni
 Urządzenie montowane do wylotu lufy,
 które zmniejsza ilość światła lub błysku,
 wytwarzanego przy spalaniu gazów
-materiału miotającego.
+materiału miotającego. 0/0/0
 flash-to-bang time / intervalle
 éclair-son
 The time from light being first observed
@@ -18119,7 +18101,7 @@ z wysuniętego stanowiska naziemnego
 lub powietrznego akcją bojowych
 statków powietrznych wykonujących
 bezpośrednie wsparcie lotnicze sił
-lądowych.
+lądowych. 0/0/0
 forward edge of the battle area / limite
 avant de la zone de bataille
 FEBA
@@ -18237,7 +18219,7 @@ wolne spadanie
 Rodzaj skoku ze spadochronem,
 w którym spadochron jest otwierany
 ręcznie lub automatycznie na uprzednio
-określonej wysokości.
+określonej wysokości. 0/0/0
 
 
 
@@ -18773,7 +18755,7 @@ weight. 1/3/73
 zrzut grawitacyjny
 zrzut tary desantowej pod wpływem siły
 ciężkości ładunków (po zmianie kąta
-natarcia statku powietrznego)
+natarcia statku powietrznego). 0/0/0
 grazing fire / tir rasant
 Fire approximately parallel to the
 ground where the centre of the cone of
@@ -19140,8 +19122,7 @@ surface zero (obsolete)
 SZ (obsolete)
 The point on the earth’s surface
 directly above or below a nuclear
-detonation. [derived from: COED]
-MCJSB 31/10/13
+detonation. 31/10/13
 punkt zerowy
 GZ
 punkt zero (przestarzały)
@@ -19173,7 +19154,7 @@ Element ubezpieczenia, którego
 podstawowym zadaniem jest osłona sił
 głównych poprzez podjęcie walki w celu
 zyskania na czasie, jak również
-obserwacja i przekazywanie informacji.
+obserwacja i przekazywanie informacji. 0/0/0
 guarded frequency / fréquence gardée
 An enemy frequency used as a source
 of information, on which jamming is
@@ -20135,7 +20116,7 @@ w pobliżu używanej drogi startowej,
 rozpoznawane wzrokowo, w którym
 pozycja kołującego statku powietrznego
 jest utrzymywana zgodnie z instrukcjami
-kontroli ruchu lotniczego.
+kontroli ruchu lotniczego. 0/0/0
 
 
 
@@ -21472,21 +21453,16 @@ d'information
 IA
 Actions designed to affect information
 or information systems.
-[derived from: MC 422/4]
 Note: Information activities can be
 performed by any actor and include
-protection measures.
-[derived from: MC 422/4]
-MCJSB, 14/12/15
+protection measures. 14/12/15
 działania informacyjne
 IA
 Działania mające kształtować informacje
 lub systemy informacyjne.
-[źródło: MC 422/4]
 Uwaga: Działania informacyjne może
 realizować dowolny podmiot i obejmują
-one środki ochrony.
-[źródło: MC 422/4] 25/10/18
+one środki ochrony. 25/10/18
 information box / cadre d'informations
 A space on an annotated overlay,
 mosaic, map, etc., which is used for
@@ -21808,7 +21784,7 @@ The introduction of forces into a hostile
 or potentially hostile area. 4/2/11
 przerzut
 Wprowadzenie sił własnych do wrogiego
-lub potencjalnie wrogiego obszaru.
+lub potencjalnie wrogiego obszaru. 0/0/0
 
 
 
@@ -22232,15 +22208,11 @@ nastrojony. 26/2/98
 interchangeability / interchangeabilité
 The ability of one product, process or
 service to be used in place of another
-to fulfil the same requirements.
-[ISO/IEC Guide 2:1996]
-CS, 5/9/07
+to fulfil the same requirements. 5/9/07
 zamienność
 Zdolność produktu, procesu lub usługi do
 zastosowania w miejsce innego, w celu
-spełnienia tych samych wymagań.
-[ISO/IEC Guide 2:1996] [Approving
-authority(ies): NCS]. 20/10/10
+spełnienia tych samych wymagań. 20/10/10
 inter-command exercise / exercice
 inter-commandements
 An exercise involving the two NATO
@@ -22943,10 +22915,6 @@ przecięcie jej płaszczyzny dwusieczną
 kąta pomiędzy pionem i prostopadłą do
 fotografii. 8/4/04
 
-
-
-
-linia jednakowego stopnia
 isogriv / isogrille
 A line on a map or chart which joins
 points of equal angular difference
@@ -23273,8 +23241,6 @@ Każde miejsce lub obszar, którego
 przejęcie lub utrzymanie daje znaczną
 przewagę jednej z walczących stron.
 4/10/11
-
-poległy w walce
 killed-in-action casualty / perte tuée au
 combat
 KIA casualty (admitted)
@@ -23782,7 +23748,6 @@ sterowania koniecznymi do jego
 namierzenia oraz skierowania na niego
 wiązki energii laserowej. 26/2/98
 
-system. 26/2/98
 laser tracker / appareil de poursuite
 laser
 A device which locks on to the
@@ -24710,10 +24675,6 @@ magnetic north. 9/1/96
 kurs magnetyczny
 Kurs względem magnetycznego bieguna
 północnego. 10/5/01
-magnetic circuit
-Preferred terms: magnetic mine.
-1/11/75
-/2/98
 magnetic compass / compas
 magnétique
 An instrument containing a freely
@@ -25952,7 +25913,7 @@ Wojskowa informacja geograficzna, która
 została oszacowana, przetworzona,
 streszczona i opublikowana
 w ujednoliconej formie, odpowiadającej
-wymaganiom wojskowym.
+wymaganiom wojskowym. 0/0/0
 
 
 
@@ -27198,13 +27159,7 @@ combined* (dopuszczalny)
 Przymiotnik opisujący działania, operacje
 i struktury organizacyjne, w których
 zaangażowane są elementy więcej niż
-jednego państwa.12/12/12
-* Dotychczas w terminologii przyjętej
-w SZ RP termin „combined”
-tłumaczony był jako „wielonarodowy”.
-W związku z decyzjami podjętymi na
-szczeblu NATO zaleca się stosowanie
-terminu „multinational”.
+jednego państwa. 12/12/12
 multinational force / force
 multinationale
 MNF
@@ -27217,7 +27172,6 @@ MNF
 combined force* (dopuszczalny)
 Siły zbrojne składające się z wojsk
 dwóch lub więcej państw. 12/12/12
-* Patrz: hasło „multinational”.
 multinational joint operation / opération
 interarmées multinationale
 combined joint operation (admitted)
@@ -27231,7 +27185,6 @@ Działania prowadzone przez siły dwóch
 lub więcej państw, w których
 zaangażowane są elementy, co najmniej
 dwóch rodzajów sił zbrojnych. 12/12/12
-* Patrz: hasło „multinational”.
 multinational operation / opération
 multinationale
 combined operation (admitted)
@@ -27243,8 +27196,6 @@ combined operation* (dopuszczalny)
 Działania prowadzone przez wojska
 dwóch lub więcej państw działających
 wspólnie. 12/12/12
-* Patrz: hasło „multinational”.
- 5/4/01
 multispectral imagery / représentation
 à spectres multiples
 The image of an object obtained
@@ -27510,20 +27461,20 @@ Siły lub dowództwa, które państwa
 zgadzają się przekazać pod dowództwo
 operacyjne lub kontrolę operacyjną
 dowódcy NATO. 6/10/09
-NATO body / organisme OTAN
-A civilian or military headquarters,
+NATO body / organisme OTAN jajko
+Jajko A civilian or military headquarters,
 agency or other organizational unit
 established pursuant to the North
 Atlantic Treaty and fully financed
-through international budgets. [derived
-from: MC 0216/4, 2007], 30/6/17
+through international budgets. 30/6/17
 organ NATO
 Cywilne lub wojskowe dowództwo,
 agencja lub inna jednostka
 organizacyjna, ustanowiona zgodnie
 z Traktatem Północnoatlantyckim
 i całkowicie finansowana z budżetów
-międzynarodowych. 25/10/18
+międzynarodowych.
+25/10/18
 NATO code number / numéro de code
 OTAN
 An identifying letter and number
@@ -27689,19 +27640,13 @@ Wojskowych, utworzone zgodnie
 z Traktatem Północnoatlantyckim
 (zwanym Protokołem Paryskim). 22/6/10
 
-NATO military public affairs / affaires
-publiques militaires de l'OTAN
+NATO military public affairs / affaires publiques militaires de l'OTAN
 NATO military PA (admitted)
 The function responsible for promoting
 NATO's military aims and objectives to
 audiences to enhance awareness and
 understanding of military aspects of the
 Alliance.
-[C-M(69)22]
-Note: This includes planning and
-conducting external and internal
-communications, and community
-relations. [derived from: MC 0457/2]
 14/8/15
 wojskowa działalność prasowo-
 informacyjna NATO
@@ -27710,12 +27655,7 @@ celów wojskowych NATO pośród opinii
 publicznej w celu zwiększenia
 świadomości oraz zrozumienia
 wojskowych aspektów Sojuszu.
-[C-M(69)22]
-Uwaga: Obejmuje to planowanie oraz
-prowadzenie zewnętrznej i wewnętrznej
-komunikacji, jak również relacji
-w ramach społeczności. [źródło: MC
-0457/2] 20/11/18
+20/11/18
 
 
 
@@ -28464,10 +28404,6 @@ numerem ewidencyjnym i nie
 podlegająca okresowemu sprawdzaniu.
 26/2/98
 
-chart. 26/2/98
-
-
-
 non-submarine contact chart / carte
 des faux échos
 non-sub contact chart (admitted)
@@ -28532,7 +28468,7 @@ matter. 30/6/17
 adnotacja
 W NATO, potwierdzenie przez dany
 organ, że został on poinformowany o
-sprawie.
+sprawie. 0/0/0
 notice to airmen / avis aux navigants
 notam (admitted)
 A notice distributed by means of
@@ -30479,7 +30415,7 @@ parachutes are fully deployed. 1/3/73
 wysokość otwarcia spadochronu
 Wysokość nad zamierzonym punktem
 lądowania, na której spadochron lub
-spadochrony są w pełni otwarte.
+spadochrony są w pełni otwarte. 0/0/0
 paradrop / parachutage
 Delivery by parachute of personnel or
 cargo from an aircraft in flight. 1/7/70
@@ -30744,7 +30680,7 @@ pododdział wysadzony lub zrzucony
 z samolotu w rejon celu, aby ustawić
 i obsłużyć pomoce nawigacyjne w celu
 naprowadzenia samolotu na strefy zrzutu
-lub lądowania.
+lub lądowania. 0/0/0
 patrol / patrouille
 A detachment of ground, sea, or air
 forces sent out for the purpose of
@@ -31556,7 +31492,7 @@ SPL
 Punkt na płaszczyźnie
 lądowania/wodowania zrzutowiska, na
 którym powinien lądować pierwszy
-skoczek/ładunek.
+skoczek/ładunek. 0/0/0
 point of impact2
 / point d'impact
 impact point
@@ -31756,13 +31692,6 @@ rzeczywista moc, wysokość oraz punkt
 zerowy wybuchu jądrowego, uzyskanych
 innymi środkami niż ocena
 bezpośrednia. 7/2/02
-
-działania osłonowe w walce z okrętami
-pouncer operation. 10/5/01
-
-usuwanie min w ramach obrony
-pouncer procedure.
-10/5/01
 
 practice mine1
 / mine d'entraînement2
@@ -32046,7 +31975,7 @@ dotyczących spraw narodowych
 i sojuszniczych, wydarzeń i operacji.
 Udziela też innego wsparcia, porad
 i pomocy, łącznie z eskortowaniem
-korespondentów wojennych.
+korespondentów wojennych. 0/0/0
 pressure-altitude / altitude-pression
 An atmospheric pressure expressed in
 terms of altitude which corresponds to
@@ -34044,7 +33973,8 @@ superimposition on the target. 1/11/75
 celownik odblaskowy (kolimatorowy)
 Celownik optyczny, w którym siatka
 celownika lub znak celowniczy
-wyświetlany jest na szkle przeziernym
+wyświetlany jest na szkle przeziernym.
+0/0/0
 
 
 
@@ -34368,7 +34298,7 @@ Punkt zrzutu
 W transporcie powietrznym, punkt na
 zrzutowisku, bezpośrednio nad którym
 dokonuje się zrzutu pierwszego skoczka
-spadochronowego/ładunku.
+spadochronowego/ładunku. 0/0/0
 reliability diagram / carton
 documentaire
 In cartography, a diagram showing the
@@ -34855,7 +34785,7 @@ designated by the airspace control
 authority in response to specific
 situations and/or requirements, within
 which the operation of one or more
-airspace users is restricted. 2011.10.11
+airspace users is restricted. 11/10/11
 strefa ograniczonego działania
 Strefa powietrzna o określonych
 rozmiarach, wyznaczona przez władze
@@ -36771,14 +36701,12 @@ ostrzeliwanego. 4/10/11
 shielding / écran de protection
 A material used to provide a level of
 protection from ionizing radiation or
-nuclear burst. MCJSB, 2016.12.14
+nuclear burst. MCJSB, 16/12/14
 ekran ochronny1
 Materiał wykorzystywany w celu
 zapewnienia poziomu ochrony przed
 promieniowaniem jonizującym lub
 wybuchem jądrowym. 7/3/02
-
-
 
 ship counter / compteur de navires
 In naval mine warfare, a device in a
@@ -37326,10 +37254,7 @@ by one aircraft. 1/11/68
 samolotolot/śmigłowcolot
 W operacjach powietrznych jeden lot
 operacyjny wykonywany przez jeden
-statek powietrzny.
-
-
-
+statek powietrzny. 0/0/0
 sortie number / numéro de sortie
 sortie reference
 A reference used to identify the images
@@ -38227,7 +38152,7 @@ during one run over a drop zone.
 potok
 grupa skoczków spadochronowych
 opuszczających statek powietrzny
-z jednego luku/drzwi nad zrzutowiskiem
+z jednego luku/drzwi nad zrzutowiskiem. 0/0/0
 stock control / contrôle de stock
 Process of maintaining inventory data
 on the quantity, location, and condition
@@ -38271,10 +38196,6 @@ on hand ready for use. 1/2/74
 zapasy
 Ilość dostępnych środków zaopatrzenia
 gotowych do użycia. 18/9/12
-
-aircraft. 23/3/11
-
-landing aircraft. 23/3/11
 stopway / prolongement d'arrêt
 A defined rectangular area on the
 ground at the end of a runway in the
@@ -38993,13 +38914,6 @@ dowodzenia NATO oraz który przyjmuje
 siły i inne wsparcie ze strony jednego lub
 więcej dowódców wspierających. 10/5/01
 
-
-
-supporting arms coordination centre
-
-centrum koordynacji wsparcia
-ogniowego
-centre. 29/4/10
 supporting attack / attaque d'appui
 An offensive operation carried o ut in
 conjunction with a main attack and
@@ -39445,7 +39359,7 @@ Podległy element systemu dowodzenia
 lotnictwem taktycznym przeznaczony do
 spełniania funkcji łącznikowych lotnictwa
 z siłami lądowymi oraz do kierowania
-statkami powietrznymi.
+statkami powietrznymi. 0/0/0
 tactical air control system / système de
 contrôle aérien tactique
 TACS
@@ -41964,16 +41878,6 @@ in wartime. 1/3/81
 Towary ładowane w okresie pokoju,
 które są niepożądane przez kraj-
 odbiorcę w okresie wojny. 26/2/98
-unwarned exposed / exposé et non
-alerté
-[ATP-45]
-MCJSB, 4/4/17
-podatność nieuprzedzonych
-niechronionych.
-12/9/02
-
-
-
 up1
 / plus haut1
 In artillery and naval fire support, a
