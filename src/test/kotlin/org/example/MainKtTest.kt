@@ -76,9 +76,22 @@ class MainKtTest {
         //when
         val uncleanedFile = glossaryParser.readFile(Path(aap6plFilteredPagesFilePath))
         println("uncleaned file length: ${uncleanedFile.length}")
-        val cleanFile = glossaryParser.cleanUpUnnecessaryContent(uncleanedFile)
-        val result = glossaryParser.getDefinitionsGroupedByAlphabet(cleanFile)
+        val cleanFile = glossaryParser.cleanUpUnnecessaryContentPolishEnglish(uncleanedFile)
+        val result = glossaryParser.getPolishEnglishDefinitionsByLetter(cleanFile)
         assertEquals(26, result.size)
+    }
+
+     @Test
+    fun testShouldGetFrenchDefinitionsGroupedByAlphabet() {
+        //given
+        val appFilesApi = AppFilesApiFactory.create()
+        val glossaryParser = GlossaryParser(appFilesApi)
+
+        //when
+        val uncleanedFile = glossaryParser.readFile(Path(glossaryFilteredFrench))
+        println("uncleaned file length: ${uncleanedFile.length}")
+        val result = glossaryParser.getFrenchDefinitionsByLetter(uncleanedFile)
+        assertEquals(20, result.size)
     }
 
     @Test
@@ -112,7 +125,7 @@ class MainKtTest {
 
         val glossaryParser = GlossaryParser(AppFilesApiFactory.create())
         //when
-        val cleanedEntry = glossaryParser.cleanUpUnnecessaryContent(exampleEntry)
+        val cleanedEntry = glossaryParser.cleanUpUnnecessaryContentPolishEnglish(exampleEntry)
 
         //then
         val expected = """
@@ -147,10 +160,12 @@ class MainKtTest {
         val glossaryParser = GlossaryParser(appFilesApi)
 
         //when
-        val result = glossaryParser.readFile(Path(aap6plFilteredPagesFilePath))
-        val cleanedResult = glossaryParser.cleanUpUnnecessaryContent(result)
+        val result = glossaryParser.readFile(Path(glossaryFilteredFrench))
+        val cleanedResult = glossaryParser.cleanUpUnnecessaryContentFrench(result)
+        val termePrevilege = cleanedResult.lines()
+            .filter { it.contains("Terme privilégié") }.toList().joinToString("\n")
 
-        appFilesApi.fileOperation().create().into(Path("src/test/resources/cleanedGlossaryENG.txt")).withContent(cleanedResult).save()
+        appFilesApi.fileOperation().create().into(Path("src/test/resources/cleanedGlossaryFR.txt")).withContent(cleanedResult).save()
         
         //then
         val doesNotContainFFAAP6 =

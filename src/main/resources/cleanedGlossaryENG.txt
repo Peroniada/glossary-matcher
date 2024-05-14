@@ -2938,23 +2938,19 @@ znaczącego zagrożenia dla załogi statku
 powietrznego, obsługi naziemnej,
 pasażerów lub osób trzecich. 10/5/16
 alert state / état d'alerte
-[C-M(2002)50]
 A level of preparedness characterized
 by the measures taken for protection,
 deterrence, defence and confidence.
-[MCTB]
 Note: In NATO, the alert states are
 ALPHA, BRAVO, CHARLIE and
 DELTA in ascending order of gravity.
  30/6/17
 stan gotowości
-[C-M(2002)50]
 Poziom przygotowania
 charakteryzowany przez środki
 podejmowane w celu zapewnienia
 ochrony, odstraszania, obrony oraz
 pewności.
-[MCTB]
 Uwaga: W NATO stany gotowości to
 ALPHA, BRAVO, CHARLIE i DELTA
 w kolejności rosnącej. 25/10/18
@@ -25054,8 +25050,7 @@ requirements as variables dependent
 upon a set of criteria.
 Note: an example of such a criterion is
 workload. 31/1/13
-wytyczne do kalkulacji wielkości
-zatrudnienia
+wytyczne do kalkulacji wielkości zatrudnienia
 MSG
 Wytyczne określające sposób naliczania
 wielkości zatrudnienia w zależności od

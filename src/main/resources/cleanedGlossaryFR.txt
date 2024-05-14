@@ -177,8 +177,8 @@ installations et équipements) aménagée
 pour permettre l'atterrissage, la vie
 courante et le décollage d'aéronefs.
 1973.02.01
-AAP-06(2017)
--126-
+
+
 aérodrome avancé / advanced
 aerodrome
 Aérodrome possédant généralement un
@@ -389,8 +389,6 @@ Qualificatif employé pour décrire des
 troupes spécialement entraînées pour
 effectuer, après un mouvement par voie
 aérienne, des opérations, soit par
-AAP-06(2017)
--127-
 parachutage, soit par poser.
 2001.10.01
 aéroporté2
@@ -479,8 +477,6 @@ particulières constituant leur tâche
 principale ou une tâche relativement
 permanente.
 1980.07.01
-affût
-Terme privilégié : affût de canon.
 affût de canon / gun carriage
 affût
 Support fixe ou mobile d'un canon.
@@ -531,8 +527,7 @@ Agent chimique ou biologique utilisé pour
 provoquer la détérioration d'un matériel
 déterminé ou pour l'endommager.
 MCJSB, 2013.04.30
-agent chimique antiémeute
-Terme privilégié : agent antiémeute.
+
 agent civil OTAN à statut international
 / NATO international civilian
 Agent civil d'un pays membre de
@@ -599,8 +594,8 @@ d'où l'atterrissage peut être effectué.
 2003.09.01
 ailier / wingman
 Pilote en appui de son chef de formation.
-AAP-06(2017)
--128-
+
+
 Par extension, avion de l'ailier.
 1981.03.01
 aire à signaux / signal area
@@ -623,9 +618,7 @@ instruments ou un point associé à cette
 installation et servant à indiquer la fin de
 l'approche initiale.
 2003.09.01
-aire d'attente
-Terme privilégié : aire de manoeuvre des
-aéronefs.
+
 aire d'explosion / firing area
 Aire d'explosion d'un ensemble
 dragueur-drague ; c'est la surface
@@ -695,8 +688,7 @@ au stationnement, au chargement, au
 déchargement et à l'entretien courant
 des aéronefs.
 1992.11.01
-ajustage observé de tir
-Terme privilégié : réglage observé de tir.
+
 alerte au sol / ground alert
 État d'un aéronef au sol (sur le pont)
 dont les pleins sont faits et l'armement
@@ -721,8 +713,7 @@ Premier avis du lancement ou de
 l'approche d'armes ou de vecteurs
 d'armes non identifiés.
 1981.03.01
-alerte lointaine de défense aérienne
-Terme privilégié : alerte lointaine.
+
 alerte lointaine et contrôle aérien par
 moyens aéroportés / airborne early
 warning and control
@@ -806,8 +797,6 @@ référence.
 altimètre radar / radar altimeter
 Type d'altimètre absolu qui indique la
 distance verticale le séparant de la
-AAP-06(2017)
--129-
 surface sous-jacente en utilisant le
 principe du radar.
 1993.12.01
@@ -837,8 +826,6 @@ rendement de propulsion tombe au-
 dessous d'une valeur minimale reconnue
 comme nécessaire aux opérations.
 1973.03.01
-altitude de coordination
-Terme privilégié : niveau de coordination
 altitude de croisière / cruising altitude
 Niveau mesuré par référence au niveau
 moyen des mers, etc., maintenu pendant
@@ -857,9 +844,6 @@ altitude de largage / drop altitude
 Altitude au-dessus du niveau moyen de
 la mer à laquelle le largage est effectué.
 1973.03.01
-altitude de sécurité
-Terme privilégié : altitude minimale de
-sécurité.
 altitude de transit / traverse level
 Hauteur de déplacement au-dessus des
 systèmes de défense aérienne à basse
@@ -888,8 +872,6 @@ Altitude au-dessous de laquelle il est
 dangereux de voler en raison du relief ou
 de la présence d'autres obstacles.
 1973.03.01
-altitude relative
-Terme privilégié : espacement vertical.
 altitude-pression / pressure-altitude
 Pression atmosphérique exprimée sous
 forme de l'altitude correspondante en
@@ -899,10 +881,6 @@ alvéole d'amorçage / fuze cavity
 Logement ménagé dans une charge
 pour recevoir le dispositif d'amorçage.
 1979.12.01
-amarrage d'un aéronef
-Terme privilégié : saisie d'aéronef.
-âme claire
-Terme privilégié : pièce vide.
 aménagement d'une base / base
 development
 Amélioration ou développement des
@@ -1010,8 +988,8 @@ d'autres facteurs connexes, afin de
 prévoir l'influence du terrain sur les
 opérations militaires.
 1990.11.01
-AAP-06(2017)
--130-
+
+
 analyse opérationnelle / operational
 analysis
 Emploi de méthodes scientifiques pour
@@ -1129,8 +1107,7 @@ Angle solide délimitant l'espace que voit
 le tireur à partir de sa position
 d'observation.
 1973.05.05
-angle O
-Terme privilégié : angle d'observation.
+
 angle parallactique / parallactic angle
 Angle formé par les axes optiques de
 deux instruments, par exemple une
@@ -1222,8 +1199,8 @@ dans cet ordre logique.
 appréciation de la situation / estimate
 of the situation
 Procédé de raisonnement logique qui
-AAP-06(2017)
--131-
+
+
 permet au chef de prendre en
 considération tous les facteurs influant
 sur la situation militaire et d'arriver à une
@@ -1334,8 +1311,7 @@ Ravitaillement ou matériel indispensable
 aux opérations qui, pour différentes
 raisons, est rare, ou risque de le devenir.
 1992.10.01
-approvisionnement essentiel
-Terme privilégié : cargaison essentielle.
+
 approvisionnements navals / naval
 stores
 Articles ou produits utilisés par un
@@ -1363,8 +1339,6 @@ Appui aérien effectué conformément à
 un programme établi avant les
 opérations.
 1969.09.01
-appui aérien éloigné
-Terme privilégié : interdiction aérienne
 appui aérien immédiat / immediate air
 support
 appui aérien urgent
@@ -1400,8 +1374,7 @@ coordination avec les forces de surface
 et qui soutiennent directement les
 opérations terrestres ou maritimes.
 1983.07.01
-appui aérien urgent
-Terme privilégié : appui aérien immédiat.
+
 appui direct / direct support1
 Appui fourni par une unité qui n'est ni
 affectée à l'unité ou à la formation
@@ -1415,9 +1388,7 @@ Appui ou soutien donné à l'ensemble
 d'une force bénéficiaire plutôt qu'à un
 seul de ses éléments.
 2011.02.03
-appui général et renforcement
-Terme privilégié : action d'ensemble et
-renforcement.
+
 appui rapproché / close support
 Action menée par les formations d'appui
 contre des objectifs situés suffisamment
@@ -1431,8 +1402,8 @@ autres modalités.
 1973.03.01
 appui réciproque / mutual support
 Appui que des unités se donnent
-AAP-06(2017)
--132-
+
+
 mutuellement contre l'ennemi en raison
 des tâches qui leur sont assignées, de
 leurs positions respectives et par rapport
@@ -1523,15 +1494,13 @@ Arme à laquelle la munition est jointe,
 mais qui ne peut pas tirer, n'étant pas
 chargée.
 2001.01.01
-arme atomique
-Terme privilégié : arme nucléaire.
+
 arme chargée / charged weapon
 Arme approvisionnée et prête à faire feu
 à l'exception de la manoeuvre du cran de
 sûreté, lorsqu'il y en a un.
 2001.10.01
-arme classique
-Terme privilégié : arme conventionelle.
+
 arme conventionelle / conventional
 weapon
 arme classique (déconseillé)
@@ -1620,8 +1589,6 @@ Partie des forces armées d'un pays
 entraînée et équipée pour le combat
 terrestre.
 2011.02.03
-armées
-Terme privilégié : armée1
 armement / arming
 Dans le domaine des explosifs, des
 armes ou des systèmes d'armes,
@@ -1638,8 +1605,8 @@ arrêt d'un aéronef / aircraft arrestment
 Immobilisation d'un aéronef à l'aide de
 moyens extérieurs.
 1974.08.01
-AAP-06(2017)
--133-
+
+
 arrêt du réacteur / cut-off
 Arrêt volontaire d'un réacteur.
 1973.03.01
@@ -1849,10 +1816,6 @@ Manoeuvre offensive au cours de
 laquelle l'effort principal s'exerce contre
 le front des forces adverses.
 1977.12.01
-AAP-06(2017)
--134-
-attaque guidée
-Terme privilégié : attaque téléguidée
 attaque improvisée / hasty attack
 En opérations terrestres, attaque dont
 les délais de préparation sont réduits au
@@ -1879,8 +1842,7 @@ Attaque dirigée sur l'objectif principal de
 la campagne, de l'opération de grande
 envergure ou de la bataille.
 1996.11.20
-attaque sur vecteur
-Terme privilégié : attaque téléguidée.
+
 attaque téléguidée / vectored attack
 attaque guidée (toléré)
 attaque sur vecteur (toléré)
@@ -2067,8 +2029,8 @@ Autorité accordée à un commandant, ou
 à une personne ayant une responsabilité
 déterminée, pour assurer la coordination
 de fonctions ou d'activités déterminées
-AAP-06(2017)
--135-
+
+
 intéressant deux ou plusieurs forces,
 commandements, armées ou
 organismes.
@@ -2280,8 +2242,8 @@ Toute ligne droite par rapport à laquelle
 un observateur rend compte de l'arrivée
 d'un projectile ou règle le tir.
 1994.11.01
-AAP-06(2017)
--136-
+
+
 axe de déplacement des postes de
 commandement / command axis
 axe de transmission
@@ -2295,9 +2257,7 @@ aérienne, route que le véhicule aérien
 doit suivre en vol pendant l'exécution de
 sa mission.
 1997.07.09
-axe de transmission
-Terme privilégié : axe de déplacement
-des postes de commandement.
+
 axe focal / camera axis
 Ligne imaginaire passant par le centre
 optique de l'objectif et perpendiculaire au
@@ -2335,10 +2295,9 @@ relèvement magnétique
 Azimut mesuré par rapport au nord
 magnétique.
 1996.01.09
-azimut vrai
-Terme privilégié : azimut géographique.
-AAP-06(2017)
--137-
+
+
+
 B
 balayage / scan
 En recherche électromagnétique ou
@@ -2369,9 +2328,6 @@ sous-marins en détresse, pouvant
 émettre une impulsion sonore répétitive
 sous l'eau.
 1988.02.01
-balise de localisation individuelle
-Terme privilégié : radiobalise individuelle
-de repérage
 balistique / ballistics
 Science du mouvement des projectiles.
 1974.12.01
@@ -2460,9 +2416,7 @@ un aéronef en absorbant son énergie
 cinétique lors d'un atterrissage de
 fortune ou d'un décollage interrompu.
 1994.11.01
-barrière d'arrêt de secours
-Terme privilégié : barrière d'arrêt
-d'aéronef.
+
 bascule / step-up1
 En opérations terrestres, procédure
 selon laquelle le contrôle est transmis
@@ -2484,8 +2438,7 @@ d'opérations, ou à proximité, dont la
 mission est d'assurer le soutien des
 opérations militaires.
 1981.03.01
-base de feux
-Terme privilégié : base de départ.
+
 base de lancement pour missile non
 protégée / soft missile base
 Base de lancement de campagne pour
@@ -2542,8 +2495,8 @@ explosion nucléaire.
 base géodésique1
 / baseline1
 En topographie, ligne mesurée avec un
-AAP-06(2017)
--138-
+
+
 maximum de précision et à laquelle sont
 rattachés les levés afin d'en assurer la
 coordination et l'homogénéité.
@@ -2566,10 +2519,6 @@ nécessaire aux unités de la flotte opérant
 dans une zone pour des périodes
 limitées.
 1973.03.01
-base topographique
-Terme privilégié : carte de base1
-,2
-.
 bâtiment de débarquement / landing
 ship
 Bâtiment d'assaut construit pour de
@@ -2691,9 +2640,7 @@ belligérant (adj.) / belligerent (adj.)
 Qui prend part à une guerre ou à un
 conflit armé.
 2015.08.14
-besoin en information
-Terme privilégié : besoin en
-renseignement brut.
+
 besoin en renseignement brut /
 information requirement
 besoin en information (toléré)
@@ -2756,8 +2703,8 @@ amplitude / low-angle loft bombing
 Type de bombardement par bombes non
 guidées dans lequel le largage est
 effectué à un angle de cabré inférieur à
-AAP-06(2017)
--139-
+
+
 35.
 1973.03.01
 bombardement en déport / offset
@@ -2787,9 +2734,7 @@ Bombe capable d'émettre une
 illumination brève et intense pour la
 photographie de nuit à moyenne altitude.
 1970.07.01
-bombette
-Terme privilégié : indicateur visuel de
-mise de feu.
+
 bond / bound
 En guerre sur terre, mouvement simple
 de troupes, généralement de couvert en
@@ -2810,8 +2755,7 @@ et qui doit par conséquent être plus
 visible et mieux ancrée qu'une bouée
 dan ordinaire.
 1976.12.01
-bouée radioacoustique
-Terme privilégié : bouée acoustique.
+
 bouée sans dérive / short scope buoy
 Bouée employée comme repère pour la
 navigation et qui reste pratiquement à la
@@ -2827,8 +2771,7 @@ bretelle / link2
 Route maritime, autre que côtière ou du
 large, reliant deux ou plusieurs routes.
 1975.11.01
-brin d'arrêt d'aéronef
-Terme privilégié : câble d'arrêt d'aéronef.
+
 brouillage électronique / electronic
 jamming
 Émission, réémission ou réflexion
@@ -2870,9 +2813,7 @@ brouille automatiquement certains
 signaux présentant des caractéristiques
 électromagnétiques spécifiques.
 1973.02.01
-brouilleur chercheur
-Terme privilégié : brouilleur à poursuite
-automatique.
+
 brouilleur-répéteur / repeater-jammer
 Dispositif émetteur-récepteur qui
 amplifie, multiplie et retransmet les
@@ -2887,15 +2828,14 @@ définition des priorités de transports
 aériens et de la répartition de la capacité
 de transport allouée au théâtre.
 1973.02.01
-bureau de conduite de tir
-Terme privilégié : poste central de tir.
+
 butées centrifuges / droop stop
 Système qui empêche les pales d'un
 hélicoptère de descendre trop bas lors
 de l'arrêt du rotor.
 1981.03.01
-AAP-06(2017)
--140-
+
+
 C
 cabine étanche / sealed cabin
 Espace occupé d'un aéronef caractérisé
@@ -2942,19 +2882,12 @@ contenant des renseignements tels que
 le titre, la référence ou l'échelle de
 l'ouvrage.
 1988.07.01
-cadre de référence
-Terme privilégié : cartouche de
-référence.
-caisson d'altitude
-Terme privilégié : caisson hypobare.
-caisson de compression
-Terme privilégié : caisson hyperbare.
-caisson de décompression
-Terme privilégié : caisson hypobare.
-caisson de plongée
-Terme privilégié : caisson hyperbare.
-caisson de recompression
-Terme privilégié : caisson hyperbare.
+
+
+
+
+
+
 caisson hyperbare / hyperbaric
 chamber
 caisson de compression (toléré)
@@ -3064,8 +2997,6 @@ Cavité produite par une explosion
 souterraine qui n'a pas débouché en
 surface.
 1973.03.01
-camp
-Terme privilégié : base
 camp de prisonniers de guerre /
 prisoner of war camp
 Dépôt de nature semi-permanente, établi
@@ -3097,8 +3028,8 @@ une position.
 cannibaliser / cannibalize
 Prélever sur un matériel réparable ou en
 état de service, des ensembles, sous-
-AAP-06(2017)
--141-
+
+
 ensembles ou composants en état de
 service, afin de les installer sur un autre.
 2000.10.04
@@ -3307,20 +3238,16 @@ la période de mise en application du plan
 de sauvegarde de la navigation
 commerciale.
 1999.12.13
-AAP-06(2017)
--142-
+
+
 cargaison non requise / unwanted
 cargo
 Cargaison embarquée en temps de paix
 mais qui, en temps de guerre n'est plus
 réclamée par le pays destinataire.
 1981.03.01
-carnet d'objectifs
-Terme privilégié : dossier d'objectifs2
-.
-carroyage
-Terme privilégié : déclinaison
-magnétique du carroyage.
+
+
 carroyage militaire / military grid
 grille
 Deux réseaux de lignes parallèles
@@ -3417,9 +3344,7 @@ Carte indiquant la situation tactique,
 logistique ou administrative à un moment
 donné.
 1968.11.01
-carte de situation radiologique
-Terme privilégié : carte de situation du
-rayonnement nucléaire.
+
 carte de tracé de route aéronautique /
 aeronautical plotting chart
 Carte destinée à l'utilisation des
@@ -3464,9 +3389,7 @@ contour des côtes, les marées et
 courants dans une mer ou une zone
 terrestre et maritime donnée.
 1973.03.01
-carte index
-Terme privilégié : schéma d'assemblage
-(topographie).
+
 carte internationale du monde /
 international map of the world
 Série de cartes au 1:1.000.000, publiée
@@ -3474,10 +3397,8 @@ par un certain nombre de pays, à partir
 de spécifications communes faisant
 l'objet d'accords internationaux.
 1974.08.01
-carte nautique
-Terme privilégié : carte hydrographique.
-carte non-sub
-Terme privilégié : carte des faux échos.
+
+
 carte pour la guerre des mines / mine
 warfare chart
 Carte marine spéciale, à une échelle de
@@ -3518,8 +3439,8 @@ carte topographique aéronautique /
 aeronautical topographic chart
 Représentation graphique de la surface
 terrestre ayant pour but essentiel de
-AAP-06(2017)
--143-
+
+
 faciliter la navigation à vue et au radar.
 Elle porte une sélection de
 caractéristiques du terrain, naturelles et
@@ -3588,16 +3509,14 @@ catapulte. Remplit pour un missile les
 fonctions du tube de canon pour un
 obus.
 1973.03.01
-centrage zéro
-Terme privilégié : plan de référence.
+
 central de conduite de tir de batterie /
 battery control centre
 Le centre d'opération d'où sont contrôlés
 les missiles Hawk au niveau des
 batteries.
 1975.11.01
-centrale aérodynamique
-Terme privilégié : centrale de bord.
+
 centrale d'interception / airborne
 interception equipment
 Système de commande de tir,
@@ -3729,8 +3648,8 @@ les possibilités de la flotte de transport. Il
 répartit également les missions
 d'évacuation sanitaire entre les divers
 éléments de la flotte et contrôle leur
-AAP-06(2017)
--144-
+
+
 exécution.
 1973.02.01
 centre de contrôle régional / area
@@ -3741,13 +3660,9 @@ aéronefs effectuant des vols contrôlés
 dans les zones de contrôle placées sous
 sa juridiction.
 1973.02.01
-centre de contrôle tactique Air
-Terme privilégié : centre de contrôle
-aérien tactique.
+
 centre de coordination des armes
-d'appui
-Terme privilégié : centre de coordination
-des feux d'appui.
+
 centre de coordination des feux
 d'appui / fire support coordination
 centre
@@ -3811,13 +3726,9 @@ soins aux patients faisant l'objet d'une
 ravitaillement en carburant ou un
 changement d'aéronef est nécessaire.
 MCMedSB, 2017.06.20
-centre de transmissions
-Terme privilégié : centre de
-communication.
+
 centre des opérations de défense
-aérienne
-Terme privilégié : centre de contrôle de
-défense aérienne.
+
 certificat de sécurité / security
 certificate
 Attestation délivrée par une autorité
@@ -3939,8 +3850,8 @@ Champ de mines spécialement destiné à
 la lutte contre les sous-marins. Ce
 champ de mines peut être mouillé à
 faible immersion, et être dangereux pour
-AAP-06(2017)
--145-
+
+
 les bâtiments de surface de tout type, ou
 à grande immersion dans le but de ne
 pas créer de risque pour les bâtiments
@@ -4027,9 +3938,7 @@ minefield
 Champ de mines anti-sous-marins sans
 danger pour les bâtiments de surface.
 1976.08.01
-champ de mines tactique
-Terme privilégié : champ de mines de
-manoeuvre.
+
 champ de tir1
 / field of fire
 Zone dans laquelle une arme ou un
@@ -4151,8 +4060,8 @@ systèmes similaires.
 1981.09.01
 charge enterrée / cratering charge
 Charge placée à une profondeur
-AAP-06(2017)
--146-
+
+
 convenable pour produire un cratère.
 1979.03.01
 charge formée / shaped charge
@@ -4182,8 +4091,7 @@ Charge de sécurité déterminée pour un
 équipement dans des conditions
 prescrites.
 1983.11.01
-charge nucléaire prescrite
-Terme privilégié : dotation nucléaire.
+
 charge offerte / allowable load
 Charge totale qu'un aéronef peut
 transporter sur une distance déterminée,
@@ -4297,8 +4205,7 @@ en caisses) de telle sorte que chaque
 produit puisse être déchargé sans
 toucher aux autres.
 1973.03.01
-chargement standard
-Terme privilégié : charge standard.
+
 chargement sur palette / binding
 Amarrage ou immobilisation d'objets sur
 une plate-forme mobile du type palette.
@@ -4357,8 +4264,8 @@ procédures de chasse aux mines : ceci
 permet de déterminer la présence ou
 l'absence de mines.
 1975.11.01
-AAP-06(2017)
--147-
+
+
 chasseur / fighter
 Terme générique pour désigner un type
 d'aéronef rapide et maniable, capable
@@ -4366,8 +4273,7 @@ d'effectuer des opérations tactiques
 contre des objectifs aériens ou de
 surface.
 1989.02.01
-chasseur d'interception
-Terme privilégié : intercepteur.
+
 chasseur de défense aérienne de jour
 / day air defence fighter
 Avion de chasse dont l'équipement et
@@ -4389,9 +4295,7 @@ l'armement permettent d'engager des
 objectifs aériens par toutes conditions
 météorologiques, de jour et de nuit.
 1984.10.17
-chef de mission
-Terme privilégié : commandant de
-mission.
+
 chef de site de franchissement /
 crossing site commander
 Officier responsable des aspects
@@ -4416,8 +4320,7 @@ conveyor
 Dipositif muni de rouleaux permettant la
 manutention de charges.
 1969.02.18
-chemin de roulement2
-Terme privilégié : voie de circulation.
+
 cheminement graphique / traverse2
 En topographie, report d'une série de
 segments de droite joignant
@@ -4470,13 +4373,6 @@ du mode de traitement approprié à ces
 objectifs, en tenant compte des
 capacités et des besoins opérationnels.
 2008.01.15
-chop
-Terme privilégié : changement de
-contrôle opérationnel.
-cible
-Terme privilégié : objectif2
-,3
-.
 cimetière temporaire / temporary
 cemetery
 Cimetière destiné à : a. une première
@@ -4486,8 +4382,6 @@ nouvelle inhumation de restes humains
 provenant d'une première inhumation
 d'urgence.
 1996.11.20
-circuit acoustique
-Terme privilégié : mise de feu acoustique
 circuit combiné de mise de feu /
 combination firing circuit
 Ensemble comprenant deux systèmes
@@ -4521,8 +4415,7 @@ d'une mise de feu qui agit soit sur le
 détonateur soit sur le compteur de
 navires.
 1980.07.01
-circuit de mise de feu à dépression
-Terme privilégié : mine à dépression.
+
 circuit double de mise de feu / dual
 firing circuit
 Ensemble comprenant deux systèmes
@@ -4567,8 +4460,8 @@ moonlight
 Éclairage dont l'intensité est
 intermédiaire entre celles des lumières
 reçues des étoiles et de la pleine lune,
-AAP-06(2017)
--148-
+
+
 par nuit claire.
 1973.02.01
 classification d'un itinéraire / route
@@ -4592,8 +4485,7 @@ autorisée ; b. le type de protection exigé
 pour se prémunir contre une telle
 divulgation.
 1968.11.01
-classification des ponts et véhicules
-Terme privilégié : classification militaire.
+
 classification militaire / military load
 classification
 classification des ponts et véhicules
@@ -4670,8 +4562,7 @@ Code dont le but essentiel est de
 condenser les messages, mais sans en
 garantir le secret.
 1973.03.01
-code condensé
-Terme privilégié : code abrégé.
+
 code de panneaux / panel code
 code de transmission sol-air
 Code préétabli, destiné aux
@@ -4679,8 +4570,7 @@ communications visuelles, généralement
 entre unités amies, et utilisant des
 panneaux.
 1968.01.01
-code de transmission sol-air
-Terme privilégié : code de panneaux.
+
 coefficient d'arrimage / restraint factor
 En transport aérien, coefficient,
 normalement exprimé en "g", qui permet
@@ -4699,8 +4589,6 @@ standard d'approvisionnement pour le
 calcul des approvisionnements d'un jour
 de combat.
 1981.09.01
-coïmplantation
-Terme privilégié : colocalisation
 colis d'accompagnement / door
 bundle
 Gaine ou fardeau largué manuellement
@@ -4773,8 +4661,8 @@ régional qui coordonne les activités des
 unités chargées de l'emploi des armes
 nucléaires et des unités de soutien.
 1996.01.09
-AAP-06(2017)
--149-
+
+
 commandant d'aéronef / aircraft
 commander
 commandant de bord (toléré)
@@ -4785,9 +4673,7 @@ sa mise en oeuvre.
 Note : le commandant d'aéronef peut
 aussi être le commandant de mission.
 2001.10.01
-commandant de bord
-Terme privilégié : commandant
-d'aéronef.
+
 commandant de composante1
 /
 component commander1
@@ -4864,10 +4750,8 @@ un autre soutien à un commandant
 bénéficiaire ou qui élabore un plan
 supplétif.
 2000.10.04
-commandant interallié
-Terme privilégié : commandant OTAN.
-commandant militaire
-Terme privilégié : gouverneur militaire.
+
+
 commandant national / national
 commander
 Échelon de commandement national,
@@ -4989,8 +4873,8 @@ MCJSB, 2014.11.20
 commandement de la défense
 aérienne / air defence command
 Officier exerçant son autorité et sa
-AAP-06(2017)
--150-
+
+
 responsabilité pour la défense aérienne
 dans une région déterminée.
 1975.11.01
@@ -5201,8 +5085,8 @@ Dans le domaine de la logistique, pièce
 ou assemblage de pièces assurant une
 fonction déterminée et dont le montage
 ou le remplacement ne peut se faire
-AAP-06(2017)
--151-
+
+
 qu'en totalité.
 1992.03.01
 composition pyrotechnique /
@@ -5265,9 +5149,7 @@ résultats d'une mission aérienne et
 signalant les observations importantes
 faites au cours du vol.
 MCTB, 2017.06.30
-compte rendu de mouillage de mines
-Terme privilégié : plan de repérage d'un
-champ de mines.
+
 compte rendu de raid / raid report
 En défense aérienne, compte rendu
 destiné à contribuer à l'évaluation rapide
@@ -5301,9 +5183,7 @@ s'il n'en était rendu compte qu'au retour
 de mission, le délai ainsi introduit lui
 enlèverait tout intérêt.
 1973.03.01
-compte rendu initial de contact
-Terme privilégié : compte rendu de
-contact.
+
 compte rendu supplémentaire
 d'interprétation / supplemental
 programmed interpretation report
@@ -5318,9 +5198,7 @@ bruts supplémentaires aient été
 demandés.
 1981.09.01
 compte rendu supplémentaire de
-contact
-Terme privilégié : compte rendu de
-contact.
+
 compteur de navires / ship counter
 En guerre des mines sur mer, dispositif
 équipant une mine et l'empêchant
@@ -5336,9 +5214,7 @@ concentration
 Groupe d'objectifs voisins les uns des
 autres.
 1974.02.01
-concentration maximale admissible
-Terme privilégié : barème de
-radioconcentration.
+
 concentration stratégique / strategic
 concentration
 Réunion, dans une région favorable, des
@@ -5405,8 +5281,8 @@ Art de diriger, de coordonner, de
 contrôler et d'ajuster les actions des
 forces pour atteindre les objectifs fixés.
 2002.10.14
-AAP-06(2017)
--152-
+
+
 cône de silence / cone of silence
 Espace en forme de cône inversé, situé
 directement au-dessus des aériens de
@@ -5617,8 +5493,8 @@ mine sous l'effet du choc causé par
 l'explosion d'une autre mine ou d'une
 charge explosive, située à proximité.
 Cette explosion peut entraîner celle de la
-AAP-06(2017)
--153-
+
+
 charge principale soit par sympathie, soit
 en provoquant le fonctionnement de la
 chaîne ou du mécanisme de mise à feu
@@ -5828,8 +5704,8 @@ aérienne, et ne désigne lui-même les
 objectifs que lorsqu'il est indispensable
 d'obtenir une répartition satisfaisante du
 feu, ou encore pour prévenir
-AAP-06(2017)
--154-
+
+
 l'engagement d'un aéronef ami.
 1973.03.01
 contrôle en vol / flight following
@@ -6035,11 +5911,9 @@ les opérations militaires et de renforcer
 la sécurité des navires marchands
 participants.
 2007.03.02
-coordination des tirs
-Terme privilégié : coordination des tirs
-d'appui.
-AAP-06(2017)
--155-
+
+
+
 coordination des tirs d'appui / fire
 support coordination
 coordination des tirs
@@ -6149,10 +6023,8 @@ l'électrolyte se trouve dans un tube de
 verre protégé par un mince manchon
 métallique.
 1975.11.01
-corne Hertz
-Terme privilégié : corne chimique.
-corps
-Terme privilégié : corps d'armée.
+
+
 corps d'armée / army corps
 CA
 corps
@@ -6221,8 +6093,7 @@ aéronefs amis et créée dans le but
 d'empêcher les aéronefs amis d'être
 atteints par le feu des forces amies.
 1973.02.01
-cote
-Terme privilégié : élévation.
+
 couche antireflet / lens coating
 Couche transparente ultra-mince
 déposée sur la surface d'un élément du
@@ -6247,8 +6118,8 @@ satisfaire l'ensemble des besoins
 maritimes de défense de l'OTAN autres
 que la navigation.
 2003.10.01
-AAP-06(2017)
--156-
+
+
 couloir à travers un système
 d'obstacles / barrier gap
 En opérations terrestres, espace libre
@@ -6304,8 +6175,7 @@ compte rendu indiquant qu'une arme
 vient de tirer.
 1974.02.01
 couple de photographies à décalage
-latéral
-Terme privilégié : verticales divisées.
+
 couple stéréoscopique / stereoscopic
 pair
 Ensemble de deux photographies se
@@ -6325,8 +6195,7 @@ particulières du sol, qui seraient mal
 traduites par les courbes tracées à
 intervalle normal.
 1973.02.01
-courbe bathymétrique
-Terme privilégié : ligne bathymétrique.
+
 courbe de niveau / contour line
 Ligne qui, sur une carte, relie des points
 d'égale altitude.
@@ -6434,9 +6303,7 @@ recoupant et couvrant le développement
 d'une ligne caractéristique du terrain, par
 exemple : rivière, route, voie ferrée, etc.
 1973.03.01
-couverture de référence
-Terme privilégié : couverture de
-comparaison.
+
 couverture nuageuse / cloud amount
 Portion de ciel, exprimée en fraction qui
 est couverte par les nuages.
@@ -6453,8 +6320,8 @@ recouvrement suffisant de manière à
 permettre un examen stéréoscopique
 complet.
 1969.09.01
-AAP-06(2017)
--157-
+
+
 crapaud / sinker
 En guerre de mines sur mer,
 essentiellement une masse à laquelle
@@ -6525,15 +6392,9 @@ contraire de franchir alternativement un
 passage (ou tronçon de route) utilisable
 seulement par un courant à la fois.
 1973.03.01
-crosse d'aéronef
-Terme privilégié : crosse d'arrêt
-d'aéronef.
-crosse d'appontage
-Terme privilégié : crosse d'arrêt
-d'aéronef.
-crosse d'arrêt
-Terme privilégié : crosse d'arrêt
-d'aéronef.
+
+
+
 crosse d'arrêt d'aéronef / aircraft
 arresting hook
 crosse d'aéronef
@@ -6572,8 +6433,8 @@ par tous moyens adaptés et sous une
 forme appropriée, à ceux qui en ont
 besoin.
 1981.09.01
-AAP-06(2017)
--158-
+
+
 D
 date d'exécution / target date
 Date à laquelle il est souhaité qu'une
@@ -6626,9 +6487,6 @@ véhicules passant par un point déterminé
 en un temps donné. Le débit s'exprime
 en véhicules par heure.
 1969.09.01
-débit de dose
-Terme privilégié : débit de dose de
-rayonnement
 débit de dose de rayonnement /
 radiation dose rate
 débit de dose (toléré)
@@ -6645,8 +6503,7 @@ sauvetage, la récupération de matériel,
 de navires, d'engins et de matériel
 flottant coulés ou échoués.
 1974.12.01
-début de piste
-Terme privilégié : entrée de piste.
+
 decca / decca
 Système de navigation radioélectrique à
 comparaison de phase. Il utilise une
@@ -6711,9 +6568,7 @@ conditions nécessaires à cette mise à
 feu soient remplies ou que le compteur
 des objectifs avance d'une unité.
 1996.01.09
-décligrille
-Terme privilégié : déclinaison
-magnétique du carroyage.
+
 déclinaison astronomique /
 declination
 Distance angulaire d'un point de la
@@ -6737,9 +6592,7 @@ magnétique. Elle est mesurée à l'est ou
 à l'ouest à partir du nord du quadrillage.
 1973.03.01
 déclinaison magnétique du
-quadrillage
-Terme privilégié : déclinaison
-magnétique du carroyage.
+
 décollage en série / stream take-off
 Décollage continu, en ligne de file ou en
 colonne.
@@ -6776,8 +6629,8 @@ Décontamination effectuée au niveau
 individuel dès contamination.
 Note : elle peut comprendre la
 décontamination d'une partie de la tenue
-AAP-06(2017)
--159-
+
+
 ou de l'équipement.
 2015.04.01
 décontamination opérationnelle /
@@ -6991,8 +6844,8 @@ Probabilité (exprimée en pourcentage ou
 en fraction décimale) que des dégâts
 seront causés à un objectif déterminé.
 1968.11.01
-AAP-06(2017)
--160-
+
+
 délai avant attaque / NATO warning
 time
 Intervalle de temps entre le moment où
@@ -7202,8 +7055,8 @@ Dépôt temporaire, généralement à l'air
 libre, de bombes, munitions,
 équipements ou approvisionnements.
 1973.03.01
-AAP-06(2017)
--161-
+
+
 dérive / drift
 En balistique, déviation d'un projectile
 provoquée par une action gyroscopique
@@ -7212,8 +7065,7 @@ projectile en rotation. Ces couples sont
 dus à la gravitation ou à des effets
 atmosphériques.
 1974.04.01
-dérive vraie
-Terme privilégié : précession vraie.
+
 déroutement1
 / diversion3
 Modification d'un itinéraire prescrit pour
@@ -7419,8 +7271,8 @@ au recto d'une carte.
 détecteur / detecting circuit
 En guerre des mines, partie d'un circuit
 de mise de feu qui réagit sous l'influence
-AAP-06(2017)
--162-
+
+
 d'un objectif.
 1977.03.01
 détecteur d'interception
@@ -7542,9 +7394,7 @@ ravitaillement de carburants en vrac
 dans toute l'étendue du territoire de son
 ressort.
 1970.07.01
-direction des essences inter-zones
-Terme privilégié : direction des essences
-inter-sections.
+
 direction virtuelle du vent /
 representative downwind direction
 Vitesse moyenne du vent à la surface du
@@ -7632,8 +7482,8 @@ Répartition des éléments d'un
 commandement à l'intérieur d'une zone :
 elle donne habituellement l'emplacement
 exact de chaque poste de
-AAP-06(2017)
--163-
+
+
 commandement d'unité et l'articulation
 des forces qui lui sont subordonnées.
 1973.03.01
@@ -7659,9 +7509,7 @@ Dispositif équipant une mine à influence
 et destiné à empêcher son
 déclenchement au choc.
 1976.08.01
-dispositif antidémontage
-Terme privilégié : dispositif
-antirécupération.
+
 dispositif antidrague / antisweep
 device
 Tout dispositif incorporé a l'orin d'une
@@ -7669,8 +7517,7 @@ mine ou d'un obstructeur, ou dans les
 circuits d'une mine, pour en rendre le
 dragage plus difficile.
 1975.11.01
-dispositif antilueur
-Terme privilégié : cache-flamme.
+
 dispositif antimanipulation /
 antihandling device
 Dispositif destiné à protéger une mine en
@@ -7775,9 +7622,6 @@ toutes mines, torpilles et grenades sous-
 marines ; charges de démolition;
 compositions pyrotechniqu
 MCLSB, 2017.06.03
-dispositif explosif de circonstance
-Terme privilégié : engin explosif
-improvisé
 dissuasion / deterrence
 Fait de persuader un agresseur potentiel
 que les conséquences d'une action
@@ -7841,8 +7685,8 @@ Distance, mesurée le long de l'axe
 optique, du point nodal image de
 l'objectif au plan où l'on obtient la
 meilleure définition pour l'ensemble du
-AAP-06(2017)
--164-
+
+
 cliché.
 1973.03.01
 distance focale mesurée / calibrated
@@ -8011,8 +7855,7 @@ collateral
 Pièces utilisées lors de l'interprétation
 d'une représentation.
 1978.06.01
-dôme
-Terme privilégié : dôme d'écume.
+
 dôme d'écume / spray dome
 dôme
 Soulèvement d'eau et d'écume provoqué
@@ -8041,8 +7884,7 @@ En photographie, renseignement
 normalisé porté sur le négatif et/ou le
 positif pour identification et référence.
 1969.09.01
-donnée de titrage
-Terme privilégié : donnée de marquage.
+
 donnée marginale / marginal data
 renseignement marginal
 Explication donnée en marge d'une carte
@@ -8050,14 +7892,6 @@ qui clarifie, définit, il lustre et/ou
 (complète la partie "graphique" d'une
 feuille) explicite celle-ci.
 1971.04.01
-AAP-06(2017)
--165-
-données externes de communication
-Terme privilégié : paramètres de
-communication
-données techniques du COMINT
-Terme privilégié : paramètres de
-communication
 dose absorbée / absorbed dose
 Quantité d'énergie de rayonnement
 ionisant absorbée, par unité de masse,
@@ -8181,8 +8015,6 @@ sa position par une attaque frontale de
 soutien ou par des feux indirects ou
 aériens.
 MCLSB, 2016.09.05
-double encerclement
-Terme privilégié : double enveloppement
 dragage d'attrition / attrition sweeping
 Dragage continuel des champs de mines
 pour maintenir le niveau le plus bas
@@ -8261,8 +8093,8 @@ flotteur cylindrique en fer.
 drague armée / armed sweep
 Drague munie de cisailles ou de tout
 autre dispositif lui permettant de couper
-AAP-06(2017)
--166-
+
+
 plus efficacement les orins des mines.
 1975.11.01
 drague de fond / bottom sweep
@@ -8295,9 +8127,7 @@ son immersion est réglée, du côté du
 bâtiment par un plongeur et à l'autre
 extrémité par un pendeur de flotteur.
 1975.11.01
-droite (ou gauche)
-Terme privilégié : gauche (ou droite)2
-.
+
 durée d'activation / laid life
 En guerre des mines terrestre, laps de
 temps pendant lequel le système
@@ -8344,8 +8174,8 @@ stockage déterminées, peut être
 considéré utilisable et, le cas échéant,
 sûr.
 1981.09.01
-AAP-06(2017)
--167-
+
+
 E
 eaux susceptibles d'être minées /
 mineable waters
@@ -8418,8 +8248,7 @@ Rapport entre la distance mesurée sur
 une carte ou une photographie et la
 distance correspondante sur le terrain.
 1972.07.01
-échelle des distances
-Terme privilégié : échelle graphique.
+
 échelle en X / X-scale
 Sur une photographie oblique : échelle le
 long d'une parallèle à l'horizontale
@@ -8447,12 +8276,9 @@ une photographie peuvent être
 converties en distances réelles sur le
 terrain.
 1974.02.01
-échelle linéaire
-Terme privilégié : échelle graphique.
-échelle nominale
-Terme privilégié : échelle principale.
-échelle numérique
-Terme privilégié : échelle.
+
+
+
 échelle photographique /
 photographic scale
 Rapport entre une distance mesurée sur
@@ -8555,8 +8381,8 @@ jusqu'à la portée maximale effective du
 gros de l'artillerie divisionnaire (10.000
 mètres environ).
 2003.09.01
-AAP-06(2017)
--168-
+
+
 éclairage direct / direct illumination
 Éclairage produit par l'emploi en portée
 directe d'artifices pyrotechniques ou de
@@ -8697,11 +8523,8 @@ occupant effectivement des postes
 internationaux inscrits à un tableau
 d'effectifs du temps de paix.
 2015.02.18
-effet d'incidence normale
-Terme privilégié : effet de renforcement
-d'échos.
-effet de côte
-Terme privilégié : réfraction côtière.
+
+
 effet de nuit / night effect
 Effet causé principalement par des
 variations de la polarisation des ondes
@@ -8721,8 +8544,7 @@ perpendiculaire à des surfaces planes
 alignées ou groupées dans le volume
 balayé par le radar.
 1973.03.01
-effet de terre
-Terme privilégié : réfraction côtière.
+
 effet Doppler / Doppler effect
 Variation apparente de fréquence d'une
 onde acoustique ou radioélectrique qui
@@ -8763,8 +8585,8 @@ missions ou fonctions qui lui sont
 assignées.
 Note : elle doit prendre en compte la
 capacité de commandement, les
-AAP-06(2017)
--169-
+
+
 effectifs, l'état des équipements, la
 logistique, l'entraînement et le moral, et
 peut être exprimée par un niveau ou un
@@ -8869,8 +8691,7 @@ charge extérieure pour son hissage ou
 sa suspension.
 1973.03.01
 emballage par pulvérisation de
-matiére plastique
-Terme privilégié : coconisation.
+
 embarquement / embarkation
 Action de mettre en place le personnel,
 les véhicules et leurs équipements et
@@ -8901,9 +8722,7 @@ Un emplacement de tir abrité est
 d'ordinaire fait en béton, acier, ou sacs à
 terre.
 1970.07.01
-emploi civil international OTAN
-Terme privilégié : poste civil international
-OTAN.
+
 emploi défensif des mines / mine
 defence
 Défense d'une position, d'une zone, etc.
@@ -8934,8 +8753,7 @@ derrière l'autre, et décalés d'une même
 distance et dans le même sens l'un par
 rapport à l'autre.
 1973.03.01
-en sommeil
-Terme privilégié : état dormant.
+
 en superposition / superimposed
 Terme utilisé dans la préparation d'un tir
 pour indiquer qu'une unité d'artillerie
@@ -8971,8 +8789,8 @@ dans le but de la dissuader d'agir, de lui
 infliger des dommages ou de la
 neutraliser.
 2002.05.29
-AAP-06(2017)
--170-
+
+
 engagement2
 / engagement2
 Dans le cadre des règles d'engagement,
@@ -9178,11 +8996,6 @@ amies s'attendent à rencontrer de
 l'obstruction ou de l'interférence dans le
 cadre de leurs opérations.
 2012.08.31
-environnement opérationnel
-Terme privilégié : environnement des
-opérations.
-AAP-06(2017)
--171-
 environnement permissif / permissive
 environment
 Environnement dans lequel les forces
@@ -9193,9 +9006,6 @@ Note : un environnement permissif
 n'implique pas nécessairement une
 absence de menace.
 2012.08.31
-épaisseur moitié
-Terme privilégié : couche de demi-
-atténuation
 épreuve par projection / projection
 print
 Épreuve obtenue par la projection de
@@ -9309,12 +9119,6 @@ physiquement l'individu des effets des
 substances nucléaires, radiologiques,
 biologiques et chimiques.
 MCJSB, 2014.04.10
-équipement de soute
-Terme privilégié : équipement particulier
-d'un aéronef.
-équipement individuel de protection
-Terme privilégié : équipement de
-protection individuel
 équipement particulier d'un aéronef /
 aircraft mission equipment
 équipement de soute
@@ -9389,8 +9193,8 @@ contrôlé.
 1973.03.01
 espace aérien de l'Alliance / Alliance
 airspace
-AAP-06(2017)
--172-
+
+
 L'espace aérien de l'OTAN et tout
 espace aérien dans lequel l'OTAN
 pourrait mener des opérations
@@ -9422,8 +9226,7 @@ altitude relative
 Espacement entre aéronefs exprimé en
 unités de distance verticale.
 1980.07.01
-essai à la réception
-Terme privilégié : essai de recette.
+
 essai au banc / captive firing
 Essai d'allumage de courte durée,
 effectué avec le système de propulsion
@@ -9483,8 +9286,7 @@ l'arrêt de la propulsion. Les étages sont
 numérotés chronologiquement par ordre
 de combustion.
 2003.09.01
-étagement en altitude
-Terme privilégié : espacement vertical.
+
 étalonnage d'un appareil
 photographique / camera calibration
 Détermination de la distance focale.
@@ -9600,18 +9402,15 @@ dans lequel certains éléments
 empêchent le déclenchement d'une
 mine.
 2000.10.04
-AAP-06(2017)
--173-
+
+
 état final / end state
 Situation politique ou militaire à obtenir à
 la fin d'une opération, qui indique que
 l'objectif a été atteint.
 2000.10.04
-état insensible
-Terme privilégié : état dormant.
-état possédant des armes nucléaires
-Terme privilégié : puissance nucléaire
-militaire.
+
+
 état-major / staff
 EM
 Dans une structure militaire, groupe de
@@ -9636,9 +9435,7 @@ connaissance approfondie des
 instructions d'exercice, sont choisis pour
 diriger ou contrôler un exercice.
 1981.03.01
-état-major de planification
-Terme privilégié : groupe central de
-planification.
+
 état-major intégré / integrated staff
 État-major interarmées multinational.
 2015.02.18
@@ -9647,9 +9444,7 @@ planification.
 Etat-major comprenant des personnels
 de plusieurs armées du même pays.
 2003.10.01
-état-major interforces
-Terme privilégié : état-major
-interarmées.
+
 étude théorique / exercise study
 Activité qui peut prendre la forme d'un
 exercice sur cartes, d'un jeu de guerre,
@@ -9705,13 +9500,9 @@ jusqu'au point initial de traitement, et
 jusqu'aux points ultérieurs de traitement
 dans la zone de combat.
 1973.03.01
-évacuation sanitaire aérienne primaire
-Terme privilégié : évacuation sanitaire
-aérienne de l'avant.
+
 évacuation sanitaire aérienne
-secondaire
-Terme privilégié : évacuation sanitaire
-aérienne tactique.
+
 évacuation sanitaire aérienne
 stratégique / strategic aeromedical
 evacuation
@@ -9807,8 +9598,8 @@ non létale contre un objectif militaire.
 direct damage assessment
 Étude directe d'une zone qui vient d'être
 attaquée, par observation ou
-AAP-06(2017)
--174-
+
+
 photographie aérienne, ou par
 observation directe.
 2003.09.01
@@ -10021,8 +9812,8 @@ et de chaleur.
 1989.06.01
 explosif en feuille / sheet explosive
 Explosif plastique se présentant sous
-AAP-06(2017)
--175-
+
+
 forme de feuille.
 1991.01.01
 explosif liquide / liquid explosive
@@ -10079,8 +9870,8 @@ extraction / extraction
 Retrait de forces d'une zone hostile ou
 potentiellement hostile.
 2011.02.03
-AAP-06(2017)
--176-
+
+
 F
 facteur d'atténuation / attenuation
 factor
@@ -10136,8 +9927,7 @@ Les facteurs de planification sont
 souvent exprimés en taux, proportions
 ou données.
 1985.11.01
-facteur de restitution
-Terme privilégié : facteur de corrélation.
+
 faisceau d'appareils photo / fan
 cameras
 Ensemble formé par des appareils
@@ -10167,9 +9957,7 @@ manière convenable.
 1969.09.01
 faisceau ouvert / full beam spread
 1975.11.01
-fausse origine
-Terme privilégié : point de référence
-relatif.
+
 faux champ de mines / phoney
 minefield
 Zone simulant tout ou partie d'un champ
@@ -10232,10 +10020,6 @@ Document renfermant des informations
 visant à faciliter l'identification et
 l'authentification d'une personne isolée.
 MCJSB, 2016.12.14
-fiche signalétique pour personnel
-isolé
-Terme privilégié : fiche personnalisée
-d'authentification
 fil d'armement / arming wire
 Câble, fil ou cordon reliant un aéronef à
 une charge largable et destiné à
@@ -10283,8 +10067,8 @@ on peut tirer des copies.
 filtrage / filtering
 Processus d'interprétation des
 informations signalées concernant des
-AAP-06(2017)
--177-
+
+
 mouvements d'aéronefs, de bâtiments
 ou de sous-marins, qui permet de
 déterminer leurs routes vraies probables
@@ -10324,8 +10108,7 @@ zones du plan de l'image formée par
 certains objectifs, notamment les
 objectifs grands angulaires.
 1973.02.01
-filtre dégradé
-Terme privilégié : filtre compensateur.
+
 filtre nominal / nominal filter
 Filtre capable de retenir un certain
 pourcentage en poids des particules
@@ -10457,9 +10240,7 @@ logistique) organisée, équipée et instruite
 en vue d'effectuer des opérations
 aéroportées.
 1973.02.01
-force aérotransportable
-Terme privilégié : force transportée par
-air.
+
 force amphibie1
 / amphibious force1
 Ensemble des forces navales, des
@@ -10492,8 +10273,8 @@ de l'objectif. Son rôle est de participer à
 la préparation de l'objectif en vue de
 l'assaut principal en effectuant des
 opérations telles que reconnaissance,
-AAP-06(2017)
--178-
+
+
 conquête de positions d'appui, dragage
 de mines, tirs préliminaires contre la
 terre, démolitions sous-marines et appui
@@ -10601,8 +10382,7 @@ létale, limitée au niveau, à l'intensité et à
 la durée nécessaires à la réalisation de
 l'objectif.
 2015.02.18
-force mortelle
-Terme privilégié : force létale.
+
 force multinationale / multinational
 force
 Force composée d'éléments de plusieurs
@@ -10615,8 +10395,7 @@ ou ne risque pas de provoquer la mort
 ou d'entraîner des blessures graves aux
 conséquences mortelles.
 2015.02.18
-force non mortelle
-Terme privilégié : force non létale.
+
 force opérationnelle1
 / task force1
 Groupement temporaire d'unités placé
@@ -10665,8 +10444,6 @@ b. forces affectées à l'OTAN ; c. forces
 prévues pour affectation à l'OTAN ; d.
 autres forces destinées à l'OTAN.
 1979.08.01
-forces armées
-Terme privilégié : armée1
 forces blanches / white forces
 Dans les exercices de l'OTAN, forces
 utilisées comme arbitre.
@@ -10697,8 +10474,8 @@ d'accomplir sa mission.
 forces nationales de défense de la
 zone OTAN / national forces for the
 defence of the NATO area
-AAP-06(2017)
--179-
+
+
 Forces, non placées sous
 commandement OTAN, dont la mission
 implique la défense d'un secteur inclus
@@ -10872,11 +10649,8 @@ un milieu par l'établissement brutal et
 instantané d'une surpression à la suite
 d'une explosion.
 1969.09.01
-front de l'onde de surpression
-Terme privilégié : front de choc.
-front de Mach
-Terme privilégié : avant de l'onde de
-choc.
+
+
 front de pression précurseur /
 precursor front
 Front de pression qui précède le front
@@ -10907,8 +10681,8 @@ un amorçage défectueux.
 1973.03.01
 fusée / fuze
 Dispositif amorçant une chaîne de mise
-AAP-06(2017)
--180-
+
+
 de feu.
 1980.10.01
 fusée à obturateur / shuttered fuze
@@ -10957,8 +10731,8 @@ former un noyau plus lourd. Cette fusion
 s'accompagne d'un dégagement énorme
 d'énergie.
 1991.11.01
-AAP-06(2017)
--181-
+
+
 G
 gabarit international de chargement /
 international loading gauge
@@ -10973,9 +10747,7 @@ circuler sans aucune restriction sur la
 plupart des lignes d'Europe continentale
 de l'ouest.
 1985.07.01
-gabarit PPI
-Terme privilégié : gabarit international de
-chargement.
+
 gain latéral / lateral gain
 Accroissement latéral de la surface
 couverte obtenu à chaque passage
@@ -11013,8 +10785,7 @@ point d'impact est désiré
 perpendiculairement à l'axe
 d'observation.
 1973.08.01
-géolocalisé
-Terme privilégié : géospatial.
+
 géomatique / geomatics
 Science et technologie de la gestion des
 informations géospatiales englobant
@@ -11035,9 +10806,7 @@ l'escalade en un conflit armé et
 d'endiguer les hostilités qui pourraient en
 résulter.
 2013.01.31
-gestion de l'eau
-Terme privilégié : gestion de l'espace
-marin.
+
 gestion de l'espace marin /
 waterspace management
 gestion de l'eau
@@ -11120,9 +10889,7 @@ empêche, tant qu'il est en place, le
 déclenchement accidentel du cycle
 d'armement.
 1995.05.02
-gouvernemental standard
-Terme privilégié : gouvernemental sur
-étagère.
+
 gouvernemental sur étagère /
 government off-the-shelf
 Se dit d'un produit développé pour un
@@ -11163,8 +10930,8 @@ rapport à l'air2
 Ligne continue représentant
 graphiquement la position d'un aéronef
 et indiquant les caps vrais suivis et les
-AAP-06(2017)
--182-
+
+
 distances parcourues par rapport à l'air.
 1973.02.01
 graphique de vectorisation des vents
@@ -11232,8 +10999,7 @@ graticule2
 / graticule2
 En interprétation photo, voir réticule.
 1977.11.01
-grille
-Terme privilégié : carroyage militaire.
+
 grille d'atterrissage (ou de
 débarquement) / landing mat
 plaque semi-perforée
@@ -11381,8 +11147,8 @@ Organisme opérationnel subordonné
 appartenant à la force de débarquement
 et apte à mener des opérations de
 débarquement, sous commandement
-AAP-06(2017)
--183-
+
+
 tactique unique, contre une position ou
 un groupe de positions.
 1980.07.01
@@ -11394,8 +11160,7 @@ conduite d'opérations de mouillage ou de
 lutte contre les mines au cours
 d'opérations maritimes.
 1981.03.01
-groupe de plage
-Terme privilégié : élément de plage.
+
 groupe de saut / stick
 Nombre quelconque de parachutistes
 sautant par une même issue au cours
@@ -11433,9 +11198,7 @@ couplés entre eux de telle sorte qu'ils
 fonctionnent comme une seule source
 de puissance.
 1981.03.01
-groupe hunter-killer
-Terme privilégié : groupe anti-sous-marin
-avec porte-avions.
+
 groupement amphibie / amphibious
 group
 Commandement faisant partie d'une
@@ -11505,8 +11268,7 @@ Opérations comportant l'emploi offensif
 l'utilisation des mesures de défense
 appropriées.
 1973.03.01
-guerre des mines terrestre
-Terme privilégié : guerre des mines.
+
 guerre électronique / electronic
 warfare
 GE
@@ -11589,8 +11351,8 @@ radiations émises par l'objectif.
 1973.01.01
 guidage semi-actif / semi-active
 homing guidance
-AAP-06(2017)
--184-
+
+
 Méthode de guidage dans laquelle le
 récepteur incorporé au missile utilise les
 radiations émises par l'objectif éclairé
@@ -11610,8 +11372,7 @@ colonne et qui a été désigné par le chef
 de celle-ci pour en régler la vitesse de
 marche.
 1972.07.01
-guide d'aéronef
-Terme privilégié : signaleur.
+
 guide de calcul des effectifs /
 manpower scaling guidelines
 Guide indiquant la manière de
@@ -11625,8 +11386,8 @@ guidé sur faisceau / beam rider
 Se dit d'un missile guidé par un faisceau
 radar ou radio.
 1973.03.01
-AAP-06(2017)
--185-
+
+
 H
 habilitation de sécurité / security
 clearance
@@ -11692,8 +11453,7 @@ d'un vertical céleste et comprise entre
 l'horizon et la direction reliant
 l'observateur et le corps observé.
 1975.11.01
-hauteur d'éclatement
-Terme privilégié : hauteur d'explosion.
+
 hauteur d'éclatement de sécurité /
 safe burst height
 Hauteur d'éclatement à laquelle ou au-
@@ -11786,11 +11546,6 @@ hélicoptère armé / armed helicopter
 Hélicoptère sur lequel sont montés des
 armes ou des systèmes d'armes.
 1975.11.01
-hélicoptère de manœuvre et d'assaut
-Terme privilégié : hélicoptère utilitaire
-hélicoptère d'appui
-Terme privilégié : hélicoptère de
-manœuvre
 hélicoptère d'attaque / attack
 helicopter
 Hélicoptère spécialement conçu pour
@@ -11829,8 +11584,8 @@ l'oxygène par les tissus de l'organisme.
 heure d'approche / approach time
 Heure à laquelle un aéronef commence
 son approche finale, préparatoire à
-AAP-06(2017)
--186-
+
+
 l'atterrissage.
 1973.02.01
 heure de fin de chargement / station
@@ -11950,8 +11705,7 @@ d'équipements et d'approvisionnements
 de première urgence en vue du
 mouvement par eau navire-rivage.
 1973.03.01
-horizon artificiel
-Terme privilégié : indicateur d'assiette.
+
 horizon radar / radar horizon
 Lieu géométrique des points où les
 rayons issus d'une antenne radar sont
@@ -12019,8 +11773,8 @@ ou bien les deux à la fois, en vue
 d'achever une évaluation de la situation
 et de décider du mode d'action.
 2012.01.30
-AAP-06(2017)
--187-
+
+
 I
 iconocarte / image map
 En photogrammétrie, carte dont le fond
@@ -12035,8 +11789,7 @@ Note : elle peut se présenter sous format
 papier ou format numérique et peut
 remplacer la carte classique.
 2002.10.14
-idée de manoeuvre
-Terme privilégié : concept de l'opération.
+
 identification1
 / identification1
 Manifestation de son identité ou de son
@@ -12091,11 +11844,8 @@ Détermination par moyen radioélectrique
 de l'identité ou du caractère ami ou
 ennemi.
 1968.11.01
-identité
-Terme privilégié : identification3
-.
-illuminateur laser
-Terme privilégié : marqueur laser.
+
+
 image géocodée / geocoded image
 En photogrammétrie, image
 orthorectifiée dont les pixels sont
@@ -12140,9 +11890,7 @@ immersion d'épreuve / test depth
 Immersion à laquelle un sous-marin est
 éprouvé par plongée réelle ou simulée.
 1981.09.01
-immersion de destruction
-Terme privilégié : immersion
-d'écrasement.
+
 immersion maximale opérationnelle /
 maximum operating depth
 Immersion au-delà de laquelle un sous-
@@ -12228,8 +11976,8 @@ indépendant à statut militaire /
 military independent
 Navire marchand ou auxiliaire mis en
 route isolément mais contrôlé et signalé
-AAP-06(2017)
--188-
+
+
 comme une unité militaire.
 1978.06.01
 index de repérage / register marks
@@ -12384,8 +12132,7 @@ d'origine, la date du départ, un indice
 national d'identification et le pays de
 destination du train.
 1981.03.01
-infection
-Terme privilégié : contamination.
+
 infiltration / infiltration
 Technique et procédé de combat ayant
 pour but d'introduire au sein, ou autour
@@ -12400,8 +12147,7 @@ simulant un navire, et qui est détectable
 par une mine ou par d'autres dispositifs
 capteurs.
 1976.08.01
-information
-Terme privilégié : renseignement brut.
+
 information dérivée / derived
 information
 Un paramètre tel qu'un angle, une
@@ -12438,8 +12184,8 @@ environment
 réseau sol de défense aérienne
 (toléré)
 Maillage constitué de stations radar et de
-AAP-06(2017)
--189-
+
+
 centres de commandement et de
 contrôle sur un théâtre d'opérations
 déterminé, utilisé pour le contrôle
@@ -12466,8 +12212,7 @@ l'inhibition peut être réversible si les
 moyens mis en œuvre pour entraîner
 l'inhibition sont supprimés.
 MCLSB, 2013.05.02
-inhumation
-Terme privilégié : inhumation d'urgence.
+
 inhumation d'urgence / emergency
 burial
 inhumation
@@ -12647,8 +12392,8 @@ capable de la contrôler soi-même.
 1999.12.13
 intérêts vitaux / vital interests
 Pour un pays, intérêts contribuant à
-AAP-06(2017)
--190-
+
+
 l'intégrité du territoire national et de ses
 approches, au libre exercice de la
 souveraineté nationale et à la protection
@@ -12860,8 +12605,8 @@ de poser donnés.
 itinéraire gardé / despatch route
 En circulation routière, route sur laquelle
 s'exerce un contrôle complet, à la fois en
-AAP-06(2017)
--191-
+
+
 ce qui concerne les priorités d'utilisation
 et la réglementation de la circulation
 dans le temps et dans l'espace. Un crédit
@@ -12909,8 +12654,8 @@ utilisation par une colonne de véhicules
 ou un véhicule de dimensions ou de
 poids exceptionnels.
 1979.03.01
-AAP-06(2017)
--192-
+
+
 J
 jet de repérage / squirt
 En opérations de ravitaillement en vol,
@@ -12921,8 +12666,7 @@ ravitailleur ou par l'allumage de la
 postcombustion par l'aéronef à ravitailler,
 s'il en est équipé.
 1983.11.11
-jeu de cartes
-Terme privilégié : série de cartes.
+
 jeu de guerre / war game
 Simulation d'une opération militaire par
 un quelconque procédé à l'aide de
@@ -12985,8 +12729,8 @@ Précision du tir traduite par l'écart du
 point moyen des impacts par rapport à
 l'objectif.
 1984.10.01
-AAP-06(2017)
--193-
+
+
 K - L
 lacet1
 / yaw1
@@ -13133,8 +12877,7 @@ lien à casser / shear link assembly
 Dispositif conçu pour se rompre sous
 l'effet d'une force mécanique donnée.
 1981.03.01
-ligne aclinique
-Terme privilégié : équateur magnétique.
+
 ligne agonale / agonic line
 Ligne tracée sur une carte et joignant les
 points de déclinaison magnétique nulle,
@@ -13159,10 +12902,6 @@ Ligne en avant de laquelle les véhicules
 doivent utiliser les "yeux de chat" (feux
 de black-out) la nuit.
 1973.04.01
-ligne d'égale intensité radioactive
-Terme privilégié : courbe(s)
-d'isointensité1
-.
 ligne d'incidence / line of impact
 Tangente à la trajectoire au point
 d'impact ou au point d'éclatement.
@@ -13185,15 +12924,12 @@ opération, ligne reliant les points décisifs
 dans le temps et l'espace jusqu'au
 centre de gravité.
 2001.10.01
-ligne de black-out
-Terme privilégié : ligne d'éclairage réduit.
-ligne de changement de date
-Terme privilégié : ligne internationale de
-changement de date.
+
+
 ligne de compte rendu / report line
 Ensemble des positions dont
-AAP-06(2017)
--194-
+
+
 l'occupation doit faire l'objet d'un compte
 rendu.
 1974.08.01
@@ -13297,8 +13033,7 @@ Ligne destinée à délimiter à terre les tirs
 de l'artillerie des navires de surface
 amis.
 1963.05.01
-ligne des fonds
-Terme privilégié : ligne bathymétrique.
+
 ligne discontinue / interrupted line
 Ligne en pointillés ou en tiretés
 employée généralement pour indiquer
@@ -13406,8 +13141,8 @@ Limites entre lesquelles le centre de
 gravité d'un aéronef doit rester pour qu'il
 soit utilisé dans des conditions normales
 de sécurité au décollage, pendant le vol
-AAP-06(2017)
--195-
+
+
 et l'atterrissage. Dans le cas du
 décollage et de l'atterrissage, ces limites
 peuvent faire l'objet de spécifications
@@ -13563,8 +13298,8 @@ neutralisation ou élimination de
 munitions explosives ou d'obstacles par
 très petits fonds.
 2002.10.14
-AAP-06(2017)
--196-
+
+
 M
 macédoine / mixed bag
 En guerre des mines sur mer, groupe de
@@ -13650,9 +13385,7 @@ des moyens visuels ou autres,
 conformément aux instructions du
 contrôle de la circulation aérienne.
 1973.03.01
-maintenu en attente
-Terme privilégié : isolé2
-.
+
 maintien de la paix / peacekeeping
 Effort de soutien de la paix visant à
 appuyer la mise en œuvre d'un cessez-
@@ -13737,9 +13470,6 @@ ralentissant l'ennemi tout en lui infligeant
 le maximum de pertes sans, en principe,
 se laisser engager de manière décisive.
 1983.07.01
-manutention
-Terme privilégié : manutention de
-matériels
 manutention de matériels / materials
 handling
 manutention (toléré)
@@ -13775,8 +13505,8 @@ contact
 Manoeuvre offensive consistant à établir
 ou rétablir le contact avec l'ennemi.
 1978.10.01
-AAP-06(2017)
--197-
+
+
 marche d'approche / approach march
 Mode de déplacement adopté par une
 unité de combat lorsque le contact avec
@@ -13985,8 +13715,8 @@ y compris les navires, engins ou
 matériels flottants, qui est récupéré en
 vue de sa réutilisation.
 1988.07.01
-AAP-06(2017)
--198-
+
+
 matériel technique1
 / technical
 material1
@@ -14026,11 +13756,6 @@ militaires et civils, inscrits au tableau
 d'effectifs du temps de paix, qui est
 autorisé pour une organisation.
 2015.02.18
-mécanisme de mise de feu
-Terme privilégié : circuit de mise de
-feu1
-,2
-.
 mécanisme de sécurité et d'armement
 / safety and arming mechanism
 Dispositif à deux fonctions destiné à
@@ -14200,8 +13925,8 @@ mesures de soutien de guerre
 support measures
 MSE
 Partie de la guerre électronique qui
-AAP-06(2017)
--199-
+
+
 concerne les mesures de recherche,
 d'interception et d'identification des
 émissions électromagnétiques et de
@@ -14413,8 +14138,8 @@ Mine dont tous les dispositifs de sécurité
 ont été retirés et dont les mécanismes
 automatiques de sécurité et les
 dispositifs de retard d'armement ont
-AAP-06(2017)
--200-
+
+
 fonctionné après la pose ou le mouillage.
 Une telle mine est prête à être
 déclenchée sur réception d'un signal, sur
@@ -14446,9 +14171,7 @@ En guerre des mines, mine contenant
 une charge explosive, mais pas
 nécessairement la mise de feu.
 1976.12.01
-mine combinée
-Terme privilégié : mine à influences
-combinées.
+
 mine contrôlable / controllable mine
 Mine qui peut être commandée à
 distance après sa pose ou son
@@ -14572,9 +14295,7 @@ telles que dérivantes, ludion, rampantes,
 autopropulsées, remontantes, à tête
 chercheuse ou bouquet.
 1982.03.01
-mine morte
-Terme privilégié : mine inerte1
-.
+
 mine mûre / poised mine
 Mine dont le compteur de navires a été
 saturé et qui est prête à exploser à la
@@ -14625,8 +14346,8 @@ Action de déclencher la mise de feu.
 mise à la masse / grounding
 Réalisation d'une liaison électrique entre
 le boîtier, la monture ou le châssis d'un
-AAP-06(2017)
--201-
+
+
 appareil et la structure d'un objet ou d'un
 véhicule pour établir entre eux un
 potentiel électrique commun.
@@ -14639,11 +14360,6 @@ compris, et la terre dans le but de porter
 l'ensemble au même potentiel que la
 terre.
 1980.07.01
-mise aux ordres
-Terme privilégié : détachement pour
-mise aux ordres1
-,2
-.
 mise de feu / firing system
 Système permettant de déclencher une
 chaîne pyrotechnique, électrique ou de
@@ -14712,8 +14428,7 @@ ou plusieurs influences reçues soit
 simultanément, soit à un intervalle
 préétabli.
 1998.09.25
-mise de feu magnétique
-Terme privilégié : mine magnétique.
+
 mise en application / implementation
 En normalisation OTAN, exécution d'une
 obligation énoncée dans un accord de
@@ -14821,9 +14536,7 @@ mission aérienne
 Un ou plusieurs aéronefs désignés pour
 accomplir une tâche particulière.
 1982.08.01
-mission aérienne
-Terme privilégié : mission2
-.
+
 mission de circonstance / be-
 prepared mission
 Mission attribuée à une unité et dont
@@ -14833,8 +14546,8 @@ son action précédente.
 mission de destruction / destruction
 fire mission
 En artillerie, engagement d'un objectif
-AAP-06(2017)
--202-
+
+
 ponctuel dans le but de le détruire.
 1982.08.01
 mission de recherche / search
@@ -14858,8 +14571,7 @@ batterie (ou pièce) et qui indique que le
 message qui va suivre est une demande
 de tir.
 1973.03.01
-mission sur appel
-Terme privilégié : mission sur demande.
+
 mission sur demande / on-call
 mission
 mission sur appel
@@ -14961,8 +14673,6 @@ fonction grâce à laquelle la vitesse
 ascensionnelle d'un avion est réglée
 suivant un programme déterminé.
 1973.03.01
-mort au combat
-Terme privilégié : perte tuée au combat
 mosaïque / mosaic
 Assemblage de photographies se
 recoupant et qui ont été disposées de
@@ -15016,9 +14726,7 @@ mot-code2
 Mot dont le sens caché sert à identifier
 des informations classifiées.
 1976.08.01
-mouillage abrité pour transbordement
-Terme privilégié : terminal de mouillage
-pour porte-conteneurs.
+
 mouillage auxiliaire / emergency
 anchorage
 Mouillage pouvant avoir une organisation
@@ -15047,8 +14755,8 @@ immédiat est différé en raison de la
 menace ennemie ou pour toute autre
 cause ; c. lorsqu'ils ont rallié un
 mouillage de dispersion pour éviter les
-AAP-06(2017)
--203-
+
+
 effets d'une attaque nucléaire.
 1978.06.01
 mouillage d'attente2
@@ -15063,10 +14771,7 @@ assembly anchorage
 Mouillage destiné au rassemblement et à
 la mise en route de navires.
 1978.06.01
-mouillage de transbordement
-Terme privilégié : mouillage de travail
-mouillage de travail / working
-anchorage
+mouillage de travail / working anchorage
 mouillage de transbordement
 Mouillage où des navires stationnent
 pour charger ou décharger leurs
@@ -15258,8 +14963,8 @@ fixed ammunition
 munition semi-encartouchée
 Munition dans laquelle la douille n'est
 pas fixée au projectile d'une façon
-AAP-06(2017)
--204-
+
+
 permanente.
 1968.11.01
 munition chimique binaire / binary
@@ -15306,17 +15011,15 @@ maintenance. 2. Un code couleur est
 utilisé pour différencier cette munition
 des autres types de munition.
 2007.09.05
-munition semi-encartouchée
-Terme privilégié : munition à douille
-séparée.
+
 munition télécommandée / command-
 detonated munition
 Munition dont l'explosion est provoquée
 à distance, de manière délibérée, par la
 personne qui en a le contrôle.
 2003.10.01
-AAP-06(2017)
--205-
+
+
 N
 nadir au sol / ground nadir
 Point au sol à la verticale du centre de
@@ -15325,9 +15028,7 @@ Sur une photographie rigoureusement
 verticale, il se confond avec le point
 principal.
 1973.03.01
-nadir de l'appareil de prise de vue
-Terme privilégié : nadir de la
-photographie.
+
 nadir de la photographie / photo nadir
 nadir de l'appareil de prise de vue
 Point d'intersection avec le plan du cliché
@@ -15390,8 +15091,7 @@ Bâtiment de guerre depuis lequel un
 commandant exerce le contrôle
 d'opérations amphibies.
 1973.02.01
-navire de commerce
-Terme privilégié : navire marchand.
+
 navire marchand / merchant ship
 navire de commerce (toléré)
 Tout navire à vocation commerciale à
@@ -15423,8 +15123,7 @@ convoi pour faire route vers une
 destination différente et qui devient un
 navire isolé.
 1978.10.01
-navire quittant un convoi
-Terme privilégié : navire quittant.
+
 navire ralliant un convoi / joiner
 Navire marchand indépendant en route
 pour rejoindre un convoi.
@@ -15490,10 +15189,6 @@ d'exploser au passage d'un objectif, bien
 que sa manipulation puisse encore être
 dangereuse.
 1976.08.01
-neutralisation des explosifs et
-munitions
-Terme privilégié : traitement des
-dispositifs explosifs
 neutralisation électronique /
 electronic neutralization
 Dans le domaine des contre-mesures
@@ -15505,9 +15200,6 @@ dépendent exclusivement du spectre
 électromagnétique.
 1996.11.20
 neutralisation, enlèvement et
-destruction des explosifs
-Terme privilégié : traitement des
-dispositifs explosifs
 neutralisation technique / technical
 neutralization
 Opération technique visant à rendre un
@@ -15518,8 +15210,8 @@ Empêcher le personnel ou le matériel
 ennemi d'interférer avec une opération
 particulière.
 2012.01.30
-AAP-06(2017)
--206-
+
+
 neutre / neutral
 En identification, désignation donnée à
 une piste, à un objet ou à une entité dont
@@ -15616,8 +15308,7 @@ administratives ne sont pas forcément
 reconnus par le gouvernement de la
 nation éditrice.
 1973.03.01
-nord d'une boussole
-Terme privilégié : nord du compas.
+
 nord de la grille / grid north
 Direction nord ou zéro indiquée par les
 informations de référence directionnelle
@@ -15723,8 +15414,8 @@ numéro-repère / chalk number
 Numéro attribué à un chargement
 complet et à son moyen de transport.
 1973.03.01
-AAP-06(2017)
--207-
+
+
 O
 objectif1
 / objective
@@ -15762,8 +15453,7 @@ objectif4
 En artillerie, zone désignée et numérotée
 pour un tir ultérieur.
 2006.01.06
-objectif à battre à l'horaire
-Terme privilégié : tir à l'horaire.
+
 objectif à haut rendement / high pay-
 off target
 Objectif de grande importance qui, s'il
@@ -15775,8 +15465,7 @@ sont définis par l'importance qu'ils
 présentent pour les forces amies plutôt
 que pour d'autres acteurs.
 MCJSB, 2015.12.14
-objectif à la demande
-Terme privilégié : tir à la demande.
+
 objectif de grande importance / high-
 value target
 Objectif identifié comme critique pour un
@@ -15833,8 +15522,7 @@ dans le but de fournir les
 renseignements nécessaires au réglage
 ou à l'analyse (dépouillement) du tir.
 1976.08.01
-observatoire
-Terme privilégié : poste d'observation.
+
 observer / spot1
 Déterminer par l'observation les écarts
 de tirs par rapport à l'objectif pour obtenir
@@ -15934,8 +15622,8 @@ aérienne et/ou aux activités liées à
 l'appui aérien. Ces officiers font
 normalement partie d'équipes placées
 sous le contrôle du commandement
-AAP-06(2017)
--208-
+
+
 terrestre approprié en vue d'assurer la
 liaison avec les unités aériennes et
 navales participant à des exercices ou
@@ -15955,9 +15643,6 @@ aéroportées et qui travaille avec l'armée
 de l'air sur les aérodromes utilisés pour
 les opérations aéroportées.
 1973.02.01
-officier de liaison Terre
-Terme privilégié : officier de liaison de
-l'armée de terre
 officier de surveillance aérienne / air
 surveillance officer
 Responsable de la coordination et de la
@@ -16145,8 +15830,8 @@ déterminée.
 opération d'interdiction maritime /
 maritime interdiction operation
 Opération visant à faire respecter une
-AAP-06(2017)
--209-
+
+
 interdiction de mouvements par voie
 maritime de personnes, de produits ou
 de matériels spécifiés dans une zone
@@ -16165,8 +15850,7 @@ En guerre des mines terrestre, opération
 visant à réduire ou à éliminer les effets
 des mines ou des champs de mines.
 2002.05.29
-opération de harcèlement
-Terme privilégié : opération d'interdiction.
+
 opération de renforcement de l'écran
 anti-sous-marin / antisubmarine
 warfare pouncer operation
@@ -16222,8 +15906,6 @@ partenaires d'opération et qui est menée
 sous l'autorité du Conseil de l'Atlantique
 Nord.
 2017.06.30
-opération discrète (déconseillé)
-Terme privilégié : opération clandestine
 opération expéditionnaire /
 expeditionary operation
 Projection de puissance militaire dans
@@ -16283,9 +15965,7 @@ de surface ou des sous-marins dans leur
 passage à travers des chenaux établis
 dans une zone minée.
 2009.08.26
-opération militaire d'influence
-Terme privilégié : opération
-psychologique.
+
 opération multinationale /
 multinational operation
 Opération menée par des forces
@@ -16313,8 +15993,7 @@ comportements et ayant une incidence
 sur la réalisation d'objectifs politiques et
 militaires.
 2013.01.31
-opération secrète
-Terme privilégié : opération couverte.
+
 opérations d'appui / supporting
 operations
 En opérations amphibies, opérations
@@ -16351,8 +16030,8 @@ d'assaut (3) l'atterrissage d'assaut ; b. le
 soutien logistique ; c. le transport à la
 demande ; d. l'évacuation sanitaire.
 1968.11.01
-AAP-06(2017)
--210-
+
+
 opérations de zone / area operations
 En terme maritime, opérations conduites
 dans une zone géographique et non
@@ -16436,8 +16115,7 @@ ravitaillement, de la maintenance, de
 l'évacuation, du personnel et d'autres
 détails administratifs.
 1999.12.13
-ordre d'avertissement
-Terme privilégié : ordre préparatoire.
+
 ordre d'embarquement / embarkation
 order
 Ordre précisant les dates, heures,
@@ -16560,8 +16238,8 @@ accord international, quelle qu'en soit la
 nature, une personnalité juridique
 internationale lui conférant des droits et
 obligations propres, dans le but d'assurer
-AAP-06(2017)
--211-
+
+
 une fonction donnée et de poursuivre
 des objectifs communs.
 Note : à titre d'exception, bien qu'il
@@ -16743,8 +16421,8 @@ Ouvrage à détruire dont les charges ont
 préparation soit non amorcé (stade 1),
 soit amorcé (stade 2).
 1992.10.01
-AAP-06(2017)
--212-
+
+
 P
 paillettes / chaff
 Rubans de clinquant, de fil métallique ou
@@ -16949,8 +16627,8 @@ opération pour éviter d'atteindre le point
 culminant et ainsi être en mesure de
 régénérer la puissance de combat
 nécessaire pour passer à l'étape
-AAP-06(2017)
--213-
+
+
 suivante de l'opération.
 2012.01.30
 pays chef de file en matière de
@@ -16972,8 +16650,7 @@ contribution préalablement convenue,
 soit en argent, soit en biens ou encore
 en services.
 2012.08.31
-pays d'origine
-Terme privilégié : pays envoyeur.
+
 pays envoyeur / sending nation
 pays d'origine (toléré)
 Pays déployant ses forces, ses
@@ -17016,9 +16693,6 @@ Itinéraire terrestre traversant la zone de
 l'arrière et pénétrant dans la zone de
 l'avant.
 1973.02.01
-perception de la situation
-Terme privilégié : connaissance de la
-situation
 période d'insensibilisation après
 avance / intercount dormant period
 En guerre des mines sur mer, temps
@@ -17040,9 +16714,7 @@ En guerre des mines, période pendant
 laquelle la mise de feu d'une mine est
 sensible à une influence.
 1975.11.01
-personne déplacée
-Terme privilégié : personne déplacée à
-l'intérieur de son propre pays.
+
 personne déplacée à l'intérieur de son
 propre pays / internally displaced
 person
@@ -17155,8 +16827,8 @@ Pétrolier, marchand ou militaire, équipé
 et gréé pour ravitailler des bâtiments à la
 mer.
 1973.03.01
-AAP-06(2017)
--214-
+
+
 phase d'assaut1 / assault phase1
 Au cours d'une opération amphibie, laps
 de temps qui sépare l'arrivée dans la
@@ -17289,11 +16961,8 @@ une bande spectrale donnée. Cette
 technique permet d'éliminer les fonds
 parasites.
 1976.08.01
-photographie topographique aérienne
-Terme privilégié : photographie aérienne
-cartographique.
-photoplan
-Terme privilégié : mosaïque contrôlée.
+
+
 pièce / part
 Dans le domaine de la logistique,
 élément normalement indissociable,
@@ -17362,8 +17031,8 @@ vitesse ou de caractéristiques générales.
 Ces informations sont normalement
 corrélées à partir de sources différentes.
 1996.01.09
-AAP-06(2017)
--215-
+
+
 plafond de vol stationnaire / hovering
 ceiling
 La plus grande altitude à laquelle un
@@ -17391,8 +17060,7 @@ complète. Il fournit des renseignements
 et instructions relatifs au soutien
 logistique et administratif de l'opération.
 1981.09.01
-plan d'action
-Terme privilégié : mode d'action.
+
 plan d'arrimage / stowage diagram
 Plan à l'échelle, inclus dans le plan de
 chargement d'un navire, qui fait
@@ -17572,8 +17240,8 @@ successifs" d'une carte imprimée
 correspondant à la même plaque
 d'impression ; c. ensemble des détails
 figurant sur une carte qui seront
-AAP-06(2017)
--216-
+
+
 reproduits à partir d'une même plaque
 d'impression (planche de bleu ou
 planche de courbes).
@@ -17605,9 +17273,7 @@ plaque / plate2
 Support transparent, ordinairement en
 verre, recouvert d'une émulsion sensible.
 1971.04.01
-plaque semi-perforée
-Terme privilégié : grille d'atterrissage (ou
-de débarquement).
+
 plateau de route / horizontal situation
 indicator
 Instrument qui peut indiquer des
@@ -17616,8 +17282,7 @@ relèvements et des distances par rapport
 magnétique, une route, ou un écart de
 route.
 1973.11.01
-plateau-répartiteur
-Terme privilégié : répartiteur de charges.
+
 plate-forme de largage / airdrop
 platform
 Plate-forme sur laquelle des véhicules,
@@ -17775,9 +17440,7 @@ Point situé dans un site d'atterrissage où
 un hélicoptère ou un aéronef à décollage
 et atterrissage verticaux peut se poser.
 1980.10.01
-point d'éclatement moyen
-Terme privilégié : point moyen des
-impacts.
+
 point d'impact / point of impact2
 Point où arrive, où doit arriver un
 projectile, une bombe ou un véhicule
@@ -17785,8 +17448,8 @@ spatial en phase de rentrée.
 1974.12.01
 point d'inflexion / turning point
 En guerre des mines terrestre, point
-AAP-06(2017)
--217-
+
+
 situé sur la ligne médiane d'une rangée
 de mines simple ou double et indiquant
 un changement de direction.
@@ -17848,8 +17511,7 @@ et à partir duquel les sections
 d'hélicoptères sont dirigées sur leur site
 d'atterrissage.
 1974.09.01
-point de contrôle2
-Terme privilégié : poste de contrôle.
+
 point de coopération pour la
 navigation commerciale / shipping
 cooperation point
@@ -18000,8 +17662,8 @@ point de référence4
 Point géographique proéminent et facile
 à reconnaître.
 1973.03.01
-AAP-06(2017)
--218-
+
+
 point de référence relatif / false origin
 fausse origine (toléré)
 Point fixé au sud et à l'ouest d'une zone
@@ -18090,9 +17752,7 @@ point initial principal, plusieurs points
 initiaux secondaires peuvent exister pour
 les différents éléments de la colo
 2010.01.22
-point moyen d'éclatement
-Terme privilégié : point moyen des
-impacts.
+
 point moyen des impacts / mean point
 of impact
 point d'éclatement moyen
@@ -18104,10 +17764,6 @@ distincts d'un nombre limité de projectiles
 tirés ou lancés vers le même objectif
 dans des conditions déterminées.
 2003.09.01
-point par rapport à un repère au sol
-Terme privilégié : repère1
-,2
-.
 point par transport de lieux
 géométriques / running fix
 Point obtenu par l'intersection de
@@ -18204,9 +17860,7 @@ dans le but de préserver l'intégrité de la
 partie de l'espace aérien de l'Alliance
 constituant l'espace aérien OTAN.
 2012.05.04
-polygone
-Terme privilégié : champ de tir2
-.
+
 pont sur brèche sèche / dry gap
 bridge
 Pont fixe ou mobile, servant à enjamber
@@ -18214,8 +17868,8 @@ une coupure qui normalement ne
 contient pas d'eau (par exemple : fossé
 antichar, cratères sur route, etc.).
 1973.03.01
-AAP-06(2017)
--219-
+
+
 port / port
 1978.06.01
 port contrôlé / controlled port
@@ -18352,8 +18006,7 @@ interdire à l'ennemi l'accès à une zone
 donnée ou à empêcher sa progression
 dans une direction donnée.
 1978.06.01
-position d'attaque
-Terme privilégié : zone de démarrage.
+
 position d'attente1
 / holding position
 Sur un aérodrome, point déterminé situé
@@ -18385,8 +18038,7 @@ généralement par des références
 d'angles et de distances à partir de
 certains points.
 1972.07.01
-position sans vent
-Terme privilégié : position air.
+
 position visualisée / plot3
 Matérialisation sur un écran de la
 position instantanée d'un objet aérien.
@@ -18426,8 +18078,8 @@ combustion principale a cessé.
 postcombustion2
 / afterburning2
 Procédé qui consiste à injecter et à faire
-AAP-06(2017)
--220-
+
+
 brûler le carburant dans la tuyère
 d'échappement d'un turboréacteur
 (après le passage des gaz dans la
@@ -18640,8 +18292,8 @@ pouvoir d'arrêt général / general
 stopping power
 Probabilité exprimée en pourcentage
 pour un groupe de véhicules en
-AAP-06(2017)
--221-
+
+
 formation de combat d'être arrêté par les
 mines lors du franchissement d'un
 champ de mines.
@@ -18684,8 +18336,7 @@ rendues disponibles par les pays, de
 manière à influencer le déroulement du
 combat par des moyens logistiques.
 1984.03.01
-pré-alerte
-Terme privilégié : alerte lointaine.
+
 préavis d'attaque nucléaire / nuclear
 strike warning
 Procédure avertissant de l'imminence
@@ -18848,8 +18499,8 @@ combat.
 prêt au combat2
 / combat-ready2
 Appliqué au personnel : qualifié pour
-AAP-06(2017)
--222-
+
+
 remplir au combat les fonctions qui lui
 sont confiées au sein de son unité
 d'affectation.
@@ -18878,8 +18529,7 @@ lequel il faut acheminer le message, et
 aux destinataires l'ordre dans lequel il
 doit être exploité.
 1969.09.01
-priorité de l'effort
-Terme privilégié : effort principal.
+
 priorité de mouvement / movement
 priority
 Rang relatif assigné à toute demande de
@@ -18894,8 +18544,7 @@ peut effectuer un ravitaillement
 particulier, par exemple : oxygène, air,
 liquide.
 1973.03.01
-prise de remplissage
-Terme privilégié : prise de ravitaillement.
+
 prise en compte successive d'un
 aéronef / aircraft handover
 Opération de transfert du contrôle d'un
@@ -19059,8 +18708,8 @@ moteur ou hélice d'aéronef.
 MCASB, 2014.08.05
 produit connexe / associated product
 Dans le domaine des carburants et
-AAP-06(2017)
--223-
+
+
 lubrifiants, produit d'origine pétrolière ou
 chimique employé comme fluide
 hydraulique, agent anticorrosion,
@@ -19183,9 +18832,7 @@ systématique de méridiens et parallèles
 représentant sur un plan la surface
 courbe de la sphère ou de l'ellipsoïde.
 1970.08.01
-projection conforme
-Terme privilégié : projection
-orthomorphique.
+
 projection équivalente / equal area
 projection
 Projection telle que des surfaces égales
@@ -19270,8 +18917,8 @@ un point de vue politiques.
 2013.01.31
 propulseur d'appoint / booster1
 Propulseur auxiliaire et temporaire fixe
-AAP-06(2017)
--224-
+
+
 ou éjectable, pour faciliter le décollage
 d'un aéronef, ou d'un missile, ou pour lui
 communiquer une accélération
@@ -19438,8 +19085,8 @@ Exemples : vérification d'un missile,
 compte à rebours, opérations de
 lancement.
 1973.03.01
-AAP-06(2017)
--225-
+
+
 Q - R
 quasi collision / near miss
 En vol, toute circonstance au cours de
@@ -19637,8 +19284,8 @@ autre dispositif de la manière attendue
 ou au moment prévu, dû à une
 défaillance de la mise de feu, de
 l'amorce ou de la charge propulsive ou
-AAP-06(2017)
--226-
+
+
 autre.
 2007.09.05
 raté de prise d'immersion / married
@@ -19806,8 +19453,7 @@ Action par laquelle on complète des
 stocks pour les maintenir au niveau
 requis.
 1985.07.01
-réceptacle
-Terme privilégié : zone d'impact.
+
 réceptive / ripe
 En guerre des mines, terme périmé
 signifiant "armée".
@@ -19842,8 +19488,8 @@ En photographie aérienne, sélection de
 la couverture existante répondant le
 mieux à un besoin déterminé.
 1973.03.01
-AAP-06(2017)
--227-
+
+
 recherche et sauvetage / search and
 rescue
 Mise en oeuvre d'aéronefs,
@@ -19969,9 +19615,7 @@ conditions de circulation et les activités
 le long de cette voie.
 1979.12.01
 reconnaissance de munition
-explosive
-Terme privilégié : reconnaissance
-d'explosifs et de munitions.
+
 reconnaissance en force /
 reconnaissance in force
 reconnaissance offensive
@@ -19997,9 +19641,7 @@ peuvent faire appel à des techniques,
 méthodes et matériels spéciaux ou
 employer des moyens locaux.
 2000.10.04
-reconnaissance offensive
-Terme privilégié : reconnaissance en
-force.
+
 reconnaissance par le feu /
 reconnaissance by fire
 Méthode de reconnaissance dans
@@ -20050,9 +19692,7 @@ voisin ou une formation voisine, ou
 draguée de nouveau lors d'un passage
 sur la bande voisine.
 1981.03.01
-recouvrement4
-Terme privilégié : récupération4
-.
+
 recto d'une carte / face of a map or
 chart
 Côté où apparaît l'image imprimée de la
@@ -20061,8 +19701,8 @@ carte.
 récupération1
 / recovery1
 Dans les opérations terrestres, action
-AAP-06(2017)
--228-
+
+
 d'entrer en contact, protéger et extraire
 du personnel, un individu ou un groupe
 non-hostile, ou du matériel d'un
@@ -20158,8 +19798,7 @@ l'imprimeur, lieu de publication, nombre
 d'exemplaires imprimés et
 renseignements correspondants.
 1973.03.01
-référence de sortie
-Terme privilégié : numéro de sortie.
+
 réflecteur à écho renforcé / corner
 reflector2
 En interprétation radar, objet qui fournit
@@ -20273,8 +19912,8 @@ obtenant d'abord un coup long et un
 coup court sur la ligne d'observation,
 puis en réduisant chaque fois cet
 encadrement de moitié, jusqu'à obtenir
-AAP-06(2017)
--229-
+
+
 un coup au but ou l'encadrement désiré.
 1973.03.01
 règles d'engagement / rules of
@@ -20332,8 +19971,7 @@ portée, la souplesse et la sécurité
 physique des systèmes de
 transmissions.
 1973.02.01
-relève sur place
-Terme privilégié : relève sur position.
+
 relève sur position / relief in place
 relève sur place (toléré)
 Remplacement, décidé par l'autorité
@@ -20346,18 +19984,15 @@ d'opérations attribuées, sont transmises
 remplaçante poursuit l'opération en
 cours conformément aux ordres.
 1968.11.01
-relèvement
-Terme privilégié : azimut.
+
 relèvement en transit / transit bearing
 Relèvement obtenu en notant l'heure à
 laquelle deux points marquants au sol se
 présentent sous un même relèvement
 relatif.
 1976.08.01
-relèvement géographique
-Terme privilégié : azimut géographique.
-relèvement vrai
-Terme privilégié : azimut géographique.
+
+
 relief / relief
 Variations d'altitudes et de configurations
 de terrain à la surface terrestre, pouvant
@@ -20383,11 +20018,8 @@ Phase de vol pendant laquelle les
 opérations d'atterrissage ne sont pas
 menées à terme.
 1979.08.01
-rendez-vous
-Terme privilégié : point de regroupement.
-rendez-vous des forces
-Terme privilégié : point de rendez-vous
-des forces.
+
+
 renforçateur d'amorçage / booster2
 Charge explosive très sensible utilisée
 pour l'amorçage d'une charge trop
@@ -20467,9 +20099,7 @@ planification et le traitement des
 informations ou du renseignement
 obtenus ultérieurement.
 MCJSB, 2013.10.31
-renseignement de documentation
-Terme privilégié : renseignement de
-base.
+
 renseignement de sécurité / security
 intelligence
 Renseignement sur la nature, les
@@ -20480,8 +20110,8 @@ les activités d'espionnage, de sabotage,
 de subversion, de terrorisme et de crime
 organisé.
 MCJSB, 2013.10.31
-AAP-06(2017)
--230-
+
+
 renseignement de situation / current
 intelligence
 Renseignement qui décrit la situation
@@ -20501,9 +20131,7 @@ Renseignement établi en utilisant
 l'ensemble des sources et organismes
 disponibles.
 1990.12.01
-renseignement d'origine humaine
-Terme privilégié : renseignement
-humain.
+
 renseignement électronique /
 electronic intelligence
 Renseignement issu des transmissions
@@ -20537,8 +20165,7 @@ recueillies par des opérateurs humains
 et fournies principalement par des
 sources humaines.
 2015.08.20
-renseignement marginal
-Terme privilégié : donnée marginale.
+
 renseignement médical / medical
 intelligence
 Renseignement qui relève des domaines
@@ -20585,7 +20212,7 @@ Renseignement issu de l'analyse des
 attributs d'identité concernant des
 individus, des groupes, des réseaux ou
 des populations visés.
-MCJSB, 2015-08-20
+MCJSB, 201520
 renseignement sur l'objectif / target
 intelligence
 Renseignement sur toute source, utilisé
@@ -20628,9 +20255,6 @@ des conditions de combat, afin de
 remettre temporairement en service le
 matériel endommagé ou hors de combat.
 2011.02.03
-réparation des dégâts subis au
-combat
-Terme privilégié : réparation au combat
 réparation des dégâts subis par un
 aérodrome / aerodrome damage
 repair
@@ -20690,8 +20314,8 @@ repère convenu / agreed point
 Point au sol déterminé d'avance,
 pouvant être identifié en vol, et utilisé
 quand un avion participe au réglage de
-AAP-06(2017)
--231-
+
+
 tir.
 1973.02.01
 repère d'extrémité de rangée / row
@@ -20709,9 +20333,7 @@ naturel, artificiel ou spécialement mis en
 place situé à l'origine et à la fin d'une
 rangée double de mines.
 1981.03.01
-repère de cliché
-Terme privilégié : repère de fond de
-chambre.
+
 repère de fond de chambre /
 collimating mark
 repère de cliché
@@ -20736,8 +20358,7 @@ comporte notamment un système de
 symboles alphanumériques désignant
 les noms géographiques.
 1973.03.01
-répertoire des objectifs
-Terme privilégié : liste d'objectifs.
+
 répétiteur de cap / heading indicator
 Instrument qui indique le cap, transmis
 par signal électrique, depuis une centrale
@@ -20870,9 +20491,7 @@ aux besoins prévisibles en mouvements
 et transports militaires tant alliés que
 nationaux.
 1979.03.01
-réseau sol de défense aérienne
-Terme privilégié : infrastructure
-électronique de défense aérienne.
+
 réseau trigonométrique / field control
 Série de points dont les positions et les
 altitudes sont connues. Ces positions
@@ -20897,8 +20516,8 @@ réserve2
 / reserve
 Force tenue à disposition pour faire face
 à des situations imprévues ou pour
-AAP-06(2017)
--232-
+
+
 influer sur le cours des événements à
 venir.
 1999.07.16
@@ -21025,8 +20644,7 @@ manœuvre exécutée par un dragueur
 entre la fin d'un passage et le début du
 passage suivant.
 2010.01.22
-rideau de fumée
-Terme privilégié : écran de fumée.
+
 risque lié au rayonnement
 électromagnétique / electromagnetic
 radiation hazard
@@ -21104,8 +20722,8 @@ et navires.
 1977.12.01
 roue à rochets / sprocket
 En guerre des mines sur mer, dispositif
-AAP-06(2017)
--233-
+
+
 incorporé à l'orin d'une mine pour le
 laisser traverser par le brin de la drague
 sans séparer la mine de son crapaud.
@@ -21164,8 +20782,7 @@ s'il veut être certain que les apparaux de
 dragage (ou de chasse) passent bien au-
 dessus du rail.
 1975.11.01
-route du dragueur
-Terme privilégié : route du chasseur.
+
 route du large / transit route2
 En opérations maritimes, route en haute
 mer reliant normalement deux routes
@@ -21183,8 +20800,8 @@ déterminé à l'avance reliant des
 positions situées sur la principale route
 de navigation.
 2007.03.02
-AAP-06(2017)
--234-
+
+
 S
 s'assurer de / secure
 Dans un contexte opérationnel, prendre
@@ -21323,9 +20940,7 @@ Section contenant le cône de charge
 entièrement assemblé, avec son
 enveloppe et ses éléments associés.
 1963.05.01
-section navale de plage
-Terme privilégié : groupement naval de
-plage.
+
 section ralliant un convoi / joiner
 section
 Navire ou convoi ralliant, arrivé au
@@ -21392,8 +21007,8 @@ etc.).
 séparation verticale / stepped-up
 separation
 Dans une formation aérienne, distance
-AAP-06(2017)
--235-
+
+
 verticale qui sépare deux aéronefs
 successifs, le premier volant à une
 altitude supérieure à celle du second ;
@@ -21588,9 +21203,7 @@ message ou d'une donnée ou l'identité
 d'un réseau, d'une station ou d'un
 utilisateur.
 2000.05.09
-signe distinctif
-Terme privilégié : indicatif d'appel
-international.
+
 silence radar / radar silence
 Ordre interdisant l'émission par radar de
 signaux électromagnétiques sur
@@ -21601,8 +21214,8 @@ Situation dans laquelle les émissions de
 tout ou partie des moyens radio sont
 suspendues.
 1980.07.01
-AAP-06(2017)
--236-
+
+
 simultanéité / simultaneity
 En opérations militaires, élément de la
 conception d'une campagne ou d'une
@@ -21738,8 +21351,7 @@ sur le champ.
 Note : généralement employé dans les
 opérations navales.
 2001.10.01
-sonnette
-Terme privilégié : écran.
+
 sortie / sortie
 En opérations aériennes, vol
 opérationnel effectué par un avion.
@@ -21750,9 +21362,7 @@ sortie photographique
 Tout vol d'un aéronef ayant pour but
 d'effectuer des prises de vues aériennes.
 1973.03.01
-sortie photographique
-Terme privilégié : sortie de
-reconnaissance photographique.
+
 souffle / blast
 Mouvement rapide et de faible durée de
 l'air (ou de tout autre fluide) lors de la
@@ -21808,8 +21418,8 @@ autorisée, de coopérer avec celle-ci et
 d'assurer avec elle la coordination des
 opérations. L'autorité qui attribue la
 mission à cette unité en conserve le
-AAP-06(2017)
--237-
+
+
 contrôle tactique et en coordonne les
 tâches et les mouvements suivant les
 besoins du commandant de la force
@@ -21881,8 +21491,7 @@ planifiés, acquis, testés et fournis en
 temps voulu avec un bon rapport coût-
 efficacité.
 1994.11.01
-soutien logistique mutuel
-Terme privilégié : services mutuels.
+
 soutien sanitaire / health and medical
 support
 Ensemble des actions contribuant à la
@@ -21950,20 +21559,11 @@ spot / blip
 Représentation lumineuse d'un objet sur
 un écran de visualisation.
 1995.05.02
-stade 1
-Terme privilégié : état de préparation
-non amorcé.
-stade 2
-Terme privilégié : état de préparation
-amorcé.
-stade d'alerte
-Terme privilégié : état d'alerte.
-stand de tir
-Terme privilégié : champ de tir2
-.
-station de décontamination
-Terme privilégié : chantier de
-décontamination.
+
+
+
+
+
 station de triangulation / triangulation
 station
 Point de la surface du globe terrestre,
@@ -22018,8 +21618,8 @@ commandement et dépend de la
 situation tactique, de l'allocation, de la
 possibilité de l'unité de support logistique
 d'entreposer et d'entretenir les armes
-AAP-06(2017)
--238-
+
+
 nucléaires, et de la situation nucléaire
 logistique. Le stockage prescrit peut
 varier selon le moment et selon l'unité de
@@ -22167,8 +21767,7 @@ dispersion, la piste opérationnelle
 minimale et les voies de circulation qui
 les relient les unes aux autres.
 1982.03.01
-surface zéro
-Terme privilégié : point zéro.
+
 surimmersion / dip
 En guerre des mines sur mer, écart entre
 l'immersion de réglage et l'immersion
@@ -22229,8 +21828,8 @@ renseignement de combat.
 1979.08.01
 surveillance électronique / electronic
 surveillance
-AAP-06(2017)
--239-
+
+
 Utilisation de l'énergie électromagnétique
 afin d'apporter la connaissance de la
 situation et de fournir du renseignement.
@@ -22266,9 +21865,7 @@ consiste à rechercher et détruire des
 aéronefs ennemis ou des objectifs de
 circonstance dans une zone déterminée.
 1973.03.01
-symbole de base
-Terme privilégié : symbole de carte de
-base.
+
 symbole de carte de base / base map
 symbol
 symbole de base
@@ -22342,9 +21939,7 @@ peut comporter des indications de
 distance au point d'atterrissage optimum.
 1980.01.01
 système de contrôle automatique de
-vol
-Terme privilégié : commandes
-automatiques de vol.
+
 système d'éjection à commande
 sélective / command select ejection
 system
@@ -22434,8 +22029,8 @@ et à leur état-major d'exercer leurs
 fonctions de commandement et de
 contrôle.
 2002.10.14
-AAP-06(2017)
--240-
+
+
 système de communication /
 communication system
 Ensemble de matériels, de méthodes et
@@ -22517,9 +22112,7 @@ coordination de l'emploi de tous les
 moyens dans un volume donné au-
 dessus du champ de bataille.
 1996.11.20
-système de détermination de position
-Terme privilégié : réseau de
-détermination de position.
+
 système de guidage de missiles /
 missile guidance system
 Système qui mesure les données
@@ -22646,12 +22239,10 @@ et commandements de l'OTAN de mener
 à bien la consultation, le commandement
 et le contrôle.
 C3B, 2017.09.19
-AAP-06(2017)
--241-
+
+
 T
-tableau d'effectifs
-Terme privilégié : tableau d'effectifs et de
-dotation.
+
 tableau d'effectifs d'urgence /
 emergency establishment
 TEU
@@ -22695,9 +22286,7 @@ le point de destination pour chaque
 série.
 1973.02.01
 tableau d'organisation et
-d'équipement
-Terme privilégié : tableau d'effectifs et de
-dotation.
+
 tableau de fractionnement / aircraft
 loading table
 Tableau préparé par les unités
@@ -22744,11 +22333,8 @@ tangage / pitch1
 Mouvement d'un aéronef ou d'un navire
 autour de son axe transversal.
 1997.12.18
-tangente h
-Terme privilégié : facteur d'ombre.
-tapis de bombes
-Terme privilégié : bombardement en
-tapis.
+
+
 taux d'attrition / attrition rate
 taux d'usure
 Facteur, exprimé généralement en
@@ -22757,8 +22343,7 @@ pertes en personnel ou en matériel dues
 à des causes diverses, et pour une
 période donnée.
 1973.02.01
-taux d'usure
-Terme privilégié : taux d'attrition.
+
 taux de consommation / consumption
 rate
 Quantité moyenne d'un produit qui est
@@ -22799,20 +22384,15 @@ d'usure totale, d'action de l'ennemi, de
 perte, de vols ou d'autres causes,
 catastrophes exceptées.
 1963.05.01
-taxiway
-Terme privilégié : voie de circulation.
-teinte de niveau
-Terme privilégié : coloriage
-hypsométrique.
+
+
 teinte de remplissage / infill
 En cartographie, coloration d'une zone
 ou d'un détail cartographique, par
 exemple les routes, les silhouettes de
 villes, les lacs, etc.
 1973.03.01
-teinte hypsométrique
-Terme privilégié : coloriage
-hypsométrique.
+
 télécommunication1
 /
 telecommunication1
@@ -22853,8 +22433,8 @@ vents centripètes venant de toutes les
 directions ; ces vents empêchent
 l'incendie de s'étendre tout en
 accroissant son intensité grâce à
-AAP-06(2017)
--242-
+
+
 l'oxygène qu'ils renouvellent.
 1981.03.01
 temps bloc à bloc / block time
@@ -22972,8 +22552,7 @@ si limité qu'ils ne sont pas retenus
 comme objectifs nucléaires probables de
 premier ordre.
 1965.01.01
-terrain d'aviation
-Terme privilégié : aérodrome.
+
 terrain vital / vital ground
 Terrain d'une importance telle qu'il doit
 être tenu ou contrôlé pour assurer le
@@ -23066,8 +22645,8 @@ gestion et un traitement manuels.
 1987.07.01
 thème psychologique / psychological
 theme
-AAP-06(2017)
--243-
+
+
 Idée ou thème sur lesquels se fonde une
 opération psychologique.
 1972.08.01
@@ -23279,8 +22858,8 @@ Tir effectué par les unités d'appui et
 destiné à aider et à protéger une unité
 menant une action défensive.
 1975.11.01
-AAP-06(2017)
--244-
+
+
 tir désemparant / disabling fire
 Tir dirigé sur un navire de manière à
 nuire à sa capacité de manoeuvre, mais
@@ -23326,9 +22905,7 @@ tir non observé
 Tir dont les points d'impact ou
 d'éclatement ne sont pas observés.
 1968.11.01
-tir non désemparant
-Terme privilégié : tir d'interdiction2
-.
+
 tir non létal / non-lethal fire
 Tir dont le but premier n'est pas de
 provoquer la destruction physique d'un
@@ -23340,8 +22917,7 @@ ennemies.
 Note : en France, un tir non létal est
 appelé « tir à létalité réduite ».
 2015.02.18
-tir non observé
-Terme privilégié : tir non contrôlé.
+
 tir observé / observed fire
 Tir au cours duquel les impacts ou les
 éclatements peuvent être vus par un
@@ -23386,8 +22962,7 @@ imposant aux systèmes d'armes de ne
 tirer que sur des objectifs reconnus
 comme hostiles.
 1983.07.01
-tir sur hausses échelonnées
-Terme privilégié : tir de recherche.
+
 tir sur horaire / scheduled fire
 Type de tir préparé pour être exécuté à
 un moment prévu.
@@ -23480,8 +23055,8 @@ caméras utilisées pour chaque série.
 1970.07.01
 trace origine / initial point3
 Première manifestation d'un mobile sur
-AAP-06(2017)
--245-
+
+
 une table de restitution.
 1974.09.01
 traînard / straggler2
@@ -23690,8 +23265,8 @@ transport
 En matière de transport ferroviaire,
 transport d'une charge qui, par ses
 dimensions, son poids ou son
-AAP-06(2017)
--246-
+
+
 conditionnement, ne présente pas de
 difficultés spéciales pour les installations
 ou matériels ferroviaires utilisés.
@@ -23770,17 +23345,12 @@ troupe numérotée / chalk troops
 Troupe désignée par un numéro de
 repère particulier.
 1973.03.01
-troupes de corps
-Terme privilégié : élément organique de
-corps d'armée.
-troupes de couverture
-Terme privilégié : force de couverture.
-troupes de sécurité
-Terme privilégié : force de sécurité.
-tué au combat
-Terme privilégié : perte tuée au combat.
-AAP-06(2017)
--247-
+
+
+
+
+
+
 U - V
 unité1
 / unit1
@@ -23814,8 +23384,6 @@ nécessaires pour exécuter le contrôle
 des aéronefs et qui exerce le contrôle
 tactique des aéronefs.
 1975.11.01
-unité de dotation
-Terme privilégié : unité2
 unité de tir / fire unit
 Dans le domaine de l'artillerie ou des
 mortiers, plus petit élément organique
@@ -23859,8 +23427,7 @@ Rassemblement temporaire de
 personnels et d'équipements réalisé pour
 accomplir une mission déterminée.
 1968.11.01
-usure
-Terme privilégié : attrition.
+
 V
 vague / wave
 En opérations amphibies, formation
@@ -23911,12 +23478,8 @@ de l'orientation, de la protection
 secondaire et de l'incertitude des effets
 sur l'objectif.
 1963.05.01
-variation du carroyage
-Terme privilégié : déclinaison
-magnétique du carroyage.
-variation du quadrillage
-Terme privilégié : déclinaison
-magnétique du carroyage.
+
+
 vecteur à capacité nucléaire / nuclear
 delivery vehicle
 Partie d'un système d'arme qui permet
@@ -23947,8 +23510,7 @@ Véhicule capable d'opérer sur terre et
 sur l'eau. Est muni de roues ou de
 chenilles.
 1973.02.01
-veille contre les mines
-Terme privilégié : guet contre les mines.
+
 veille radio / cover3
 Écoute continue, un émetteur étant réglé
 et disponible, mais pas nécessairement
@@ -23978,8 +23540,8 @@ vérification d'aéronefs / aircraft
 inspection
 Opérations systématiques d'examens,
 de vérifications et d'essais des organes
-AAP-06(2017)
--248-
+
+
 structuraux, des composants et des
 systèmes d'un aéronef pour déceler les
 avaries existantes ou risquant de se
@@ -24111,8 +23673,7 @@ calculateur qui projette par réflexion
 l'image d'un réticule sur un écran où elle
 se superpose à l'image de l'objectif.
 1975.11.01
-viseur synchronisé
-Terme privilégié : viseur tachymétrique.
+
 viseur tachymétrique / tachometric
 sights
 viseur synchronisé
@@ -24185,8 +23746,8 @@ Dans chaque cas les vitesses
 d'endurance doivent correspondre à une
 allure définie des machines.
 1973.03.01
-AAP-06(2017)
--249-
+
+
 vitesse de déblaiement / clearance
 rate
 La surface qui serait déminée par unité
@@ -24280,8 +23841,7 @@ heure, calculée sur la durée totale du
 parcours, en excluant les arrêts
 spécifiquement prescrits.
 1970.01.01
-vitesse rectifiée
-Terme privilégié : vitesse corrigée.
+
 vitesse sol / ground speed
 Composante horizontale de la vitesse
 d'un aéronef par rapport à la surface
@@ -24346,18 +23906,14 @@ d'un signal émis au sol. Ce sigle
 correspond à "very high frequency
 omnidirectional radio range".
 1976.12.01
-VSS liée aux conflits
-Terme privilégié : violence sexuelle et
-sexiste liée aux conflits.
+
 vulnérabilité électromagnétique /
 electromagnetic vulnerability
 Caractéristique d'un système susceptible
 d'être perturbé ou rendu inopérant par
 des interférences électromagnétiques.
 1987.07.01
-AAP-06(2017)
--250-
-W - X - Y - Z
+W
 wild weasel / wild weasel
 Aéronef spécialement modifié pour
 pouvoir identifier, localiser, détruire ou
@@ -24432,9 +23988,7 @@ zone d'appontage / landing zone2
 Zone spécifique du pont d'un navire
 destinée à l'appontage d'aéronefs.
 2005.06.30
-zone d'assaut amphibie
-Terme privilégié : zone de mise à terre1
-.
+
 zone d'atterrissage / landing zone3
 Zone spécifique de terrain destinée à
 l'atterrissage d'aéronefs.
@@ -24457,16 +24011,10 @@ responsabilité de l'engagement est
 normalement dévolue à un système
 d'arme particulier.
 2008.08.08
-zone d'engagement des intercepteurs
-Terme privilégié : zone d'engagement
-d'arme.
-zone d'engagement des missiles
-Terme privilégié : zone d'engagement
-d'arme.
+
+
 zone d'engagement des systèmes à
-courte portée
-Terme privilégié : zone d'engagement
-d'arme.
+
 zone d'étape1
 / staging area1
 Zone située entre la zone des préparatifs
@@ -24559,8 +24107,8 @@ peuvent inclure une interdiction de poser
 des obstacles dans certains secteurs
 pendant des périodes données.
 1996.01.09
-AAP-06(2017)
--251-
+
+
 zone d'opérations / area of operations
 Zone définie par le commandant de la
 force interarmées à l'intérieur d'une zone
@@ -24617,8 +24165,7 @@ duquel des activités dangereuses pour le
 vol des aéronefs peuvent se dérouler
 pendant des périodes spécifiées.
 1973.02.01
-zone dangereuse aérienne
-Terme privilégié : zone dangereuse.
+
 zone de bombardement sans
 restriction / blind bombing zone
 Zone réservée (aérienne, terrestre ou
@@ -24773,8 +24320,8 @@ matériel ou des ravitaillements.
 1973.03.01
 zone de largage à faible hauteur /
 extraction zone
-AAP-06(2017)
--252-
+
+
 Zone de largage déterminée pour la
 livraison de ravitaillement ou
 d'équipement par extraction d'un aéronef
@@ -24955,9 +24502,7 @@ dans laquelle les unités ne peuvent pas
 intervenir à moins que certaines
 mesures de sécurité ne soient remplies.
 1975.11.01
-zone de silence
-Terme privilégié : zone en angle mort2
-.
+
 zone de soutien naval / naval support
 area
 Zone maritime attribuée aux bâtiments
@@ -24982,15 +24527,13 @@ procédures spéciales ont été établies
 pour l'identification et la mise en oeuvre
 des appareils amis.
 1973.03.01
-zone de tir contrôlé
-Terme privilégié : zone d'opérations de
-défense aérienne.
+
 zone de tirs d'appui / fire support area
 Zone de manoeuvre appropriée affectée
 aux bâtiments chargés des tirs de
 soutien d'où ils appuient une opération
-AAP-06(2017)
--253-
+
+
 amphibie par leurs tirs d'artillerie.
 1973.03.01
 zone démilitarisée / demilitarized zone
@@ -25103,9 +24646,7 @@ zone minée / mined area
 Zone dangereuse du fait de la présence
 réelle ou supposée de mines.
 2001.10.01
-zone non battue
-Terme privilégié : zone en angle mort1
-.
+
 zone plastique / plastic zone
 Région située au-delà de la zone de
 rupture associée aux cratères résultant
